@@ -1,0 +1,552 @@
+[
+  {
+    "q": "What is the primary purpose of genetic engineering?",
+    "o": [
+      "To observe natural selection",
+      "To modify an organism by inserting new genetic information",
+      "To count the number of chromosomes in a cell",
+      "To study the history of evolution"
+    ],
+    "a": 1,
+    "e": "Genetic engineering involves inserting new genetic information into cells to modify an organism and change its characteristics."
+  },
+  {
+    "q": "Which process refers to the direct manipulation of DNA to alter a phenotype?",
+    "o": [
+      "Natural selection",
+      "Genetic engineering",
+      "Osmosis",
+      "Cellular respiration"
+    ],
+    "a": 1,
+    "e": "Genetic engineering is the direct manipulation of DNA to alter an organism's characteristics or phenotype."
+  },
+  {
+    "q": "In genetic engineering, DNA manipulation can involve:",
+    "o": [
+      "Only adding a gene",
+      "Only deleting a region",
+      "Changing one base pair, deleting a region, or adding a gene copy",
+      "Changing the cell's environment only"
+    ],
+    "a": 2,
+    "e": "Genetic engineering may involve changing one base pair (A-T or C-G), deleting a region, or introducing an additional gene copy."
+  },
+  {
+    "q": "How is new DNA typically obtained for genetic engineering?",
+    "o": [
+      "Through photosynthesis",
+      "By isolating and copying using recombinant DNA methods or artificial synthesis",
+      "By freezing the cells",
+      "By increasing the light intensity"
+    ],
+    "a": 1,
+    "e": "New DNA is obtained by isolating and copying the material using recombinant methods or by artificial synthesis."
+  },
+  {
+    "q": "Who created the first recombinant DNA molecule?",
+    "o": [
+      "Alexander Fleming",
+      "Paul Berg",
+      "Karl Landsteiner",
+      "Gregor Mendel"
+    ],
+    "a": 1,
+    "e": "The first recombinant DNA molecule was made by Paul Berg in 1972."
+  },
+  {
+    "q": "What components were combined to create the first recombinant DNA molecule?",
+    "o": [
+      "Human DNA and Bacterial DNA",
+      "Monkey virus SV40 and lambda virus DNA",
+      "Plant DNA and Yeast DNA",
+      "Mitochondrial DNA and Nuclear DNA"
+    ],
+    "a": 1,
+    "e": "Paul Berg combined DNA from the monkey virus SV40 with the lambda virus in 1972."
+  },
+  {
+    "q": "What does the abbreviation 'GMO' stand for?",
+    "o": [
+      "General Molecular Organism",
+      "Genetically Modified Organism",
+      "Genetic Mutation Order",
+      "Generated Mature Organism"
+    ],
+    "a": 1,
+    "e": "An organism generated through genetic engineering is considered a genetically modified organism (GMO)."
+  },
+  {
+    "q": "The first GMO created in 1973 was a:",
+    "o": [
+      "Virus",
+      "Sheep",
+      "Bacterium",
+      "Plant"
+    ],
+    "a": 2,
+    "e": "The first genetically modified organism (GMO) was a bacterium created in 1973."
+  },
+  {
+    "q": "Which technique can induce bacteria to naturally take up foreign DNA by increasing membrane permeability?",
+    "o": [
+      "Photosynthesis",
+      "Stress via thermal or electric shock",
+      "Dehydration",
+      "Constant centrifugation"
+    ],
+    "a": 1,
+    "e": "Stress, such as thermal or electric shock, increases the cell membrane's permeability to DNA in bacteria."
+  },
+  {
+    "q": "What is the common method for inserting DNA into animal cells?",
+    "o": [
+      "Soil inoculation",
+      "Microinjection directly into the nucleus",
+      "Simple diffusion",
+      "Boiling the cells"
+    ],
+    "a": 1,
+    "e": "DNA is generally inserted into animal cells using microinjection through the nuclear envelope directly into the nucleus."
+  },
+  {
+    "q": "In animal genetic engineering, it is necessary to ensure the inserted DNA is present in:",
+    "o": [
+      "Skin cells only",
+      "Embryonic stem cells",
+      "Muscle fibers",
+      "Red blood cells"
+    ],
+    "a": 1,
+    "e": "In animals, it is necessary to ensure that the inserted DNA is present in the embryonic stem cells."
+  },
+  {
+    "q": "Why is 'regeneration' not necessary when engineering bacteria?",
+    "o": [
+      "Bacteria have no DNA",
+      "Bacteria consist of a single cell and reproduce clonally",
+      "Bacteria are too small",
+      "Bacteria do not reproduce"
+    ],
+    "a": 1,
+    "e": "Regeneration is not necessary for bacteria because they consist of a single cell and reproduce clonally."
+  },
+  {
+    "q": "In plants, DNA is often inserted into the genome using:",
+    "o": [
+      "Microinjection",
+      "Specific bacteria-mediated recombination",
+      "Photosynthesis",
+      "X-rays"
+    ],
+    "a": 1,
+    "e": "In plants, DNA is often inserted using specific bacteria-mediated recombination."
+  },
+  {
+    "q": "What is the purpose of 'Selectable Markers' in transformation?",
+    "o": [
+      "To speed up cell division",
+      "To differentiate transformed from untransformed cells",
+      "To color the DNA",
+      "To provide energy to the cell"
+    ],
+    "a": 1,
+    "e": "Selectable markers are used to easily differentiate transformed from untransformed cells."
+  },
+  {
+    "q": "Which of these tests is used to confirm an organism contains a new gene?",
+    "o": [
+      "Blood typing",
+      "PCR and Southern hybridization",
+      "Gram staining",
+      "Standard microscopy"
+    ],
+    "a": 1,
+    "e": "Testing using PCR, Southern hybridization, and DNA sequencing confirms the presence of a new gene."
+  },
+  {
+    "q": "What is a plasmid?",
+    "o": [
+      "A large linear chromosome",
+      "A small circle of bacterial DNA",
+      "A viral protein coat",
+      "An animal cell organelle"
+    ],
+    "a": 1,
+    "e": "A plasmid is described as a small circle of bacterial DNA."
+  },
+  {
+    "q": "In recombinant technology, what role does a plasmid play?",
+    "o": [
+      "Energy source",
+      "Cloning vector",
+      "Membrane stabilizer",
+      "Enzyme catalyst"
+    ],
+    "a": 1,
+    "e": "A plasmid acts as a cloning vector used to deliver DNA into another cell."
+  },
+  {
+    "q": "What results from inserting foreign DNA into a plasmid?",
+    "o": [
+      "Mutated virus",
+      "Recombinant plasmid",
+      "Dead cell",
+      "New species"
+    ],
+    "a": 1,
+    "e": "Inserting foreign DNA into a plasmid forms recombinant plasmids."
+  },
+  {
+    "q": "What does PCR stand for?",
+    "o": [
+      "Protein Chain Reaction",
+      "Polymerase Chain Reaction",
+      "Primary Cell Reconstruction",
+      "Plasmid Cloning Release"
+    ],
+    "a": 1,
+    "e": "PCR stands for Polymerase Chain Reaction."
+  },
+  {
+    "q": "What is the main result of a PCR reaction?",
+    "o": [
+      "Destruction of DNA",
+      "Selective amplification of a chosen DNA region",
+      "Translation of protein",
+      "Splicing of introns"
+    ],
+    "a": 1,
+    "e": "PCR results in the selective amplification of a chosen region of a DNA molecule."
+  },
+  {
+    "q": "What is the name of the device used to perform PCR?",
+    "o": [
+      "Microscope",
+      "Thermal cycler",
+      "Spectrophotometer",
+      "Centrifuge"
+    ],
+    "a": 1,
+    "e": "PCR is performed by placing the reaction tube in a device called a thermal cycler."
+  },
+  {
+    "q": "Which enzyme is a critical component of the PCR reaction mixture?",
+    "o": [
+      "Helicase",
+      "Taq DNA polymerase",
+      "Ligase",
+      "RNA polymerase"
+    ],
+    "a": 1,
+    "e": "Taq DNA polymerase is the enzyme included in the PCR reaction mixture."
+  },
+  {
+    "q": "What are the three main steps of a PCR cycle?",
+    "o": [
+      "Transcription, Translation, Folding",
+      "Denaturation, Annealing, Extension",
+      "Mitosis, Meiosis, Cytokinesis",
+      "Ingestion, Digestion, Absorption"
+    ],
+    "a": 1,
+    "e": "The main PCR steps are Denaturation, Primer Annealing, and Extension/Elongation."
+  },
+  {
+    "q": "What happens during the 'Denaturation' step of PCR?",
+    "o": [
+      "Primers bind to DNA",
+      "Melting of DNA template by disrupting hydrogen bonds",
+      "DNA polymerase adds nucleotides",
+      "DNA pieces are joined by ligase"
+    ],
+    "a": 1,
+    "e": "Denaturation causes melting of the DNA template by disrupting hydrogen bonds between complementary bases."
+  },
+  {
+    "q": "What is produced after the Denaturation step in PCR?",
+    "o": [
+      "Proteins",
+      "Single strands of DNA",
+      "Double helices",
+      "RNA molecules"
+    ],
+    "a": 1,
+    "e": "Disrupting hydrogen bonds during denaturation produces single strands of DNA."
+  },
+  {
+    "q": "During which PCR step do primers bind to the DNA template?",
+    "o": [
+      "Denaturation",
+      "Extension",
+      "Annealing",
+      "Electrophoresis"
+    ],
+    "a": 2,
+    "e": "Annealing is the step where primers bind to the single-stranded DNA template."
+  },
+  {
+    "q": "In the Extension step, DNA polymerase adds nucleotides in which direction?",
+    "o": [
+      "3' to 5'",
+      "5' to 3'",
+      "N-terminus to C-terminus",
+      "Randomly"
+    ],
+    "a": 1,
+    "e": "DNA polymerase adds complementary deoxynucleotide triphosphates (dNTPs) in the 5' to 3' direction."
+  },
+  {
+    "q": "What are 'dNTPs' in the context of PCR?",
+    "o": [
+      "Standard proteins",
+      "Deoxynucleotide triphosphates",
+      "Viral vectors",
+      "Selectable markers"
+    ],
+    "a": 1,
+    "e": "dNTPs (deoxynucleotide triphosphates) are the nucleotides added during DNA synthesis in PCR."
+  },
+  {
+    "q": "How many double-stranded molecules are produced from one molecule after 30 cycles?",
+    "o": [
+      "60",
+      "Over 130 million",
+      "1 million",
+      "300"
+    ],
+    "a": 1,
+    "e": "Repeating the PCR cycle 30 times converts one molecule into over 130 million new double-stranded molecules."
+  },
+  {
+    "q": "Which technique is used to analyze PCR products after the reaction?",
+    "o": [
+      "Gram staining",
+      "Agarose gel electrophoresis",
+      "Microinjection",
+      "Transcription"
+    ],
+    "a": 1,
+    "e": "At the end of PCR, a sample is usually analyzed by agarose gel electrophoresis."
+  },
+  {
+    "q": "What information does agarose gel electrophoresis provide about the PCR product?",
+    "o": [
+      "The color of the DNA",
+      "The DNA region that has been amplified",
+      "The age of the cell",
+      "The presence of lipids"
+    ],
+    "a": 1,
+    "e": "Electrophoresis provides information about the DNA region that has been amplified."
+  },
+  {
+    "q": "Besides electrophoresis, how else can PCR products be examined?",
+    "o": [
+      "X-ray diffraction",
+      "DNA sequencing method",
+      "Light microscopy",
+      "pH testing"
+    ],
+    "a": 1,
+    "e": "The PCR product can be examined by DNA sequencing methods."
+  },
+  {
+    "q": "What is a common medical application of genetic engineering?",
+    "o": [
+      "Producing human insulin",
+      "Counting white blood cells",
+      "Observing heart rate",
+      "Testing vision"
+    ],
+    "a": 0,
+    "e": "Genetic engineering is applied in medicine to produce human insulin, growth hormones, and vaccines."
+  },
+  {
+    "q": "Forensic investigation uses genetic engineering for:",
+    "o": [
+      "Determining the age of a victim",
+      "Identification of a suspect based on crime scene samples",
+      "Measuring body temperature",
+      "Studying fingerprints only"
+    ],
+    "a": 1,
+    "e": "Forensic applications include the identification of suspects based on crime scene samples."
+  },
+  {
+    "q": "How can microorganisms be used in environmental genetic engineering?",
+    "o": [
+      "To produce sunlight",
+      "To break down organic wastes",
+      "To create oxygen from rocks",
+      "To freeze the ocean"
+    ],
+    "a": 1,
+    "e": "Microorganisms can be engineered to break down organic wastes and cycle materials for environmental cleanup."
+  },
+  {
+    "q": "Which of these is NOT a field where genetic engineering is applied?",
+    "o": [
+      "Medicine",
+      "Agriculture",
+      "Basic research",
+      "Classical archaeology"
+    ],
+    "a": 3,
+    "e": "The lecture lists research, medicine, industry, biotechnology, and agriculture as applications, but not archaeology."
+  },
+  {
+    "q": "Genetic engineering in agriculture results in:",
+    "o": [
+      "Natural soil",
+      "Genetically modified (GM) crops",
+      "Standard fertilizers",
+      "Larger greenhouses"
+    ],
+    "a": 1,
+    "e": "Agriculture utilizes genetic engineering to create GM crops."
+  },
+  {
+    "q": "In basic research, GM organisms are used to study:",
+    "o": [
+      "Star formations",
+      "Gene function and expression",
+      "Bone density",
+      "Chemical reactions in fire"
+    ],
+    "a": 1,
+    "e": "In research, GM organisms are used to study gene function through loss of function, gain of function, and tracking."
+  },
+  {
+    "q": "Which components are part of the PCR reaction mixture?",
+    "o": [
+      "DNA, Primer, Taq DNA polymerase, dNTPs",
+      "Protein, RNA, Sugar, Salt",
+      "Lipids, Water, Xylene, Alcohol",
+      "Enzymes, Mitochondria, Ribosomes"
+    ],
+    "a": 0,
+    "e": "The mixture contains template DNA, primers, Taq DNA polymerase, and nucleotides."
+  },
+  {
+    "q": "What is the typical volume of a PCR reaction in the tubes shown?",
+    "o": [
+      "10 ml",
+      "100 µl",
+      "1 liter",
+      "5 ml"
+    ],
+    "a": 1,
+    "e": "Source 7 shows a strip of PCR tubes each containing a 100 µl reaction."
+  },
+  {
+    "q": "Which viral vector was used in the first recombinant DNA molecule?",
+    "o": [
+      "HIV",
+      "Lambda virus",
+      "Influenza",
+      "Coronavirus"
+    ],
+    "a": 1,
+    "e": "The lambda virus was used alongside SV40 in the first recombinant DNA molecule."
+  },
+  {
+    "q": "Selectable markers are usually present in:",
+    "o": [
+      "The soil",
+      "The transgenic organism",
+      "The laboratory air",
+      "The thermal cycler's screen"
+    ],
+    "a": 1,
+    "e": "These markers are usually present in the transgenic organism to help differentiate them."
+  },
+  {
+    "q": "Recombinant Technology includes which major step?",
+    "o": [
+      "Melting the laboratory",
+      "Cutting DNA and recombining pieces",
+      "Freezing the plasmids permanently",
+      "Removing the nucleus from bacteria"
+    ],
+    "a": 1,
+    "e": "Recombinant technology involves cutting DNA and recombining their pieces."
+  },
+  {
+    "q": "What is the purpose of 'Amplify modified pieces' in recombinant technology?",
+    "o": [
+      "To make them smaller",
+      "To produce many copies of the DNA",
+      "To destroy the plasmid",
+      "To change the sugar type"
+    ],
+    "a": 1,
+    "e": "Recombinant technology includes amplifying modified pieces, often using PCR or microorganisms."
+  },
+  {
+    "q": "Human growth hormone is produced by which field of genetic engineering?",
+    "o": [
+      "Forensics",
+      "Medicine",
+      "Environmental cleanup",
+      "Archaeology"
+    ],
+    "a": 1,
+    "e": "Production of growth hormones is a medical application of genetic engineering."
+  },
+  {
+    "q": "Which field uses genetic engineering to produce vaccines?",
+    "o": [
+      "Agriculture",
+      "Medicine",
+      "Industry",
+      "Geology"
+    ],
+    "a": 1,
+    "e": "Medicine uses engineered proteins and bacteria to produce vaccines."
+  },
+  {
+    "q": "Paternity testing is a sub-application of:",
+    "o": [
+      "Crop modification",
+      "Forensic investigation",
+      "Environmental cleanup",
+      "Industrial food production"
+    ],
+    "a": 1,
+    "e": "Paternity testing is listed under forensic/identification applications."
+  },
+  {
+    "q": "Engineered mammals include which examples according to the slide?",
+    "o": [
+      "Cats and dogs",
+      "Mice, Cattle, and chicken",
+      "Lions and tigers",
+      "Whales and dolphins"
+    ],
+    "a": 1,
+    "e": "The slide specifically mentions engineered mice, cattle, and chicken."
+  },
+  {
+    "q": "Which temperature-related step is shown first in the PCR cycle diagram?",
+    "o": [
+      "Primer anneal",
+      "DNA synthesis",
+      "Template denature",
+      "Agarose gel"
+    ],
+    "a": 2,
+    "e": "The diagram shows Template Denature as the first phase of the cycle, occurring at a high temperature (~94°C)."
+  },
+  {
+    "q": "What determines which DNA region is amplified in PCR?",
+    "o": [
+      "The size of the tube",
+      "The specific primer used",
+      "The type of thermal cycler",
+      "The amount of water"
+    ],
+    "a": 1,
+    "e": "PCR enables the selective amplification of a chosen region, which is determined by the specific primers used."
+  }
+]

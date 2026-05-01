@@ -1,0 +1,552 @@
+[
+  {
+    "q": "What is the general definition of a mutation according to the lecture?",
+    "o": [
+      "A change in the protein structure only",
+      "A change in the DNA at a particular locus",
+      "A temporary change in cell function",
+      "The process of protein synthesis"
+    ],
+    "a": 1,
+    "e": "Mutation is defined as a change in the DNA at a particular locus in an organism, including point and chromosomal changes."
+  },
+  {
+    "q": "Mutations occurring in the body's body cells (excluding gametes) are called:",
+    "o": [
+      "Germ-line mutations",
+      "X-linked mutations",
+      "Somatic mutations",
+      "Autosomal mutations"
+    ],
+    "a": 2,
+    "e": "Somatic mutations are those occurring in any cell in the body except germ cells (gametes)."
+  },
+  {
+    "q": "A mutation within genes located on chromosomes 1 through 22 is categorized as:",
+    "o": [
+      "X-linked mutation",
+      "Somatic mutation",
+      "Autosomal mutation",
+      "Germ-line mutation"
+    ],
+    "a": 2,
+    "e": "Autosomal mutations are mutations within genes located on the autosomes (chromosomes 1-22)."
+  },
+  {
+    "q": "Which type of mutation occurs specifically in gametes and can be inherited?",
+    "o": [
+      "Germ-line mutations",
+      "Somatic mutations",
+      "Autosomal mutations",
+      "Point mutations"
+    ],
+    "a": 0,
+    "e": "Germ-line mutations are mutations occurring specifically in gametes."
+  },
+  {
+    "q": "A point mutation involving the replacement of a Purine with a different Purine is called:",
+    "o": [
+      "Transversion",
+      "Transition",
+      "Inversion",
+      "Deletion"
+    ],
+    "a": 1,
+    "e": "Transition occurs when a Purine is replaced by a different Purine, or a Pyrimidine by a different Pyrimidine (e.g., AT to GC)."
+  },
+  {
+    "q": "Replacing a Purine with a Pyrimidine (or vice versa) is known as:",
+    "o": [
+      "Transition",
+      "Transversion",
+      "Insertion",
+      "Silent mutation"
+    ],
+    "a": 1,
+    "e": "Transversion is the replacement of a Purine by a Pyrimidine, or a Pyrimidine by a Purine (e.g., AT to CG)."
+  },
+  {
+    "q": "What level of mutation describes the addition, deletion, or substitution of a few bases within a gene?",
+    "o": [
+      "Chromosomal level",
+      "DNA level (Point Mutation)",
+      "Protein level",
+      "Mitochondrial level"
+    ],
+    "a": 1,
+    "e": "Point Mutations involve the addition, deletion, inversion, or substitution of a few bases within genes at the DNA level."
+  },
+  {
+    "q": "A mutation that changes a triplet codon but still results in the same amino acid is a:",
+    "o": [
+      "Missense mutation",
+      "Nonsense mutation",
+      "Silent mutation",
+      "Neutral mutation"
+    ],
+    "a": 2,
+    "e": "Silent mutation occurs when a triplet codes for the same amino acid (e.g., GCA and GCC both code for alanine)."
+  },
+  {
+    "q": "When a mutation results in a different but functionally equivalent amino acid, it is termed:",
+    "o": [
+      "Missense mutation",
+      "Nonsense mutation",
+      "Silent mutation",
+      "Neutral mutation"
+    ],
+    "a": 3,
+    "e": "Neutral mutation codes for a different but functionally equivalent amino acid (e.g., Lysine to Arginine), which may not alter protein function."
+  },
+  {
+    "q": "A missense mutation is characterized by:",
+    "o": [
+      "A change to a termination codon",
+      "No change in the amino acid",
+      "A change to a non-functional different amino acid",
+      "A change that only affects the DNA backbone"
+    ],
+    "a": 2,
+    "e": "Missense mutation changes a codon specifying one amino acid to a codon specifying a different and non-functional amino acid."
+  },
+  {
+    "q": "Which mutation results in the premature termination of protein synthesis?",
+    "o": [
+      "Missense mutation",
+      "Silent mutation",
+      "Nonsense mutation",
+      "Neutral mutation"
+    ],
+    "a": 2,
+    "e": "Nonsense mutation changes a codon specifying an amino acid to a termination (stop) codon (e.g., CAA to UAA)."
+  },
+  {
+    "q": "What is the consequence of adding or deleting base pairs that are not a multiple of 3?",
+    "o": [
+      "Silent mutation",
+      "Frameshift mutation",
+      "Transition mutation",
+      "Transversion mutation"
+    ],
+    "a": 1,
+    "e": "Any addition or deletion of base pairs that is not a multiple of 3 results in a frame shift in DNA segments coding for proteins."
+  },
+  {
+    "q": "Spontaneous mutations can arise from:",
+    "o": [
+      "Radiation exposure",
+      "Chemical mutagenic agents",
+      "Errors in DNA replication",
+      "All of the above"
+    ],
+    "a": 2,
+    "e": "Spontaneous mutations arise from sources like errors in DNA replication, spontaneous lesions, or transposable elements."
+  },
+  {
+    "q": "Which of the following describes 'Induced Mutations'?",
+    "o": [
+      "They occur at lower frequencies than spontaneous ones",
+      "They arise from transposable elements",
+      "They occur when exposed to mutagenic agents like radiation",
+      "They are only found in germ cells"
+    ],
+    "a": 2,
+    "e": "Induced mutations are produced when an organism is exposed to mutagenic agents (mutagens) like radiation or chemicals, occurring at higher frequencies."
+  },
+  {
+    "q": "Sickle cell anemia is provided as an example of which type of mutation in humans?",
+    "o": [
+      "Chromosomal duplication",
+      "Gene mutation",
+      "Trisomy",
+      "Monosomy"
+    ],
+    "a": 1,
+    "e": "The lecture cites Sickle cell anemia as an example of a gene mutation in humans."
+  },
+  {
+    "q": "A 'Deficiency' in chromosome structure refers to:",
+    "o": [
+      "The addition of a chromosome part",
+      "The loss or deletion of a chromosome part",
+      "The reversal of a chromosome section",
+      "The exchange of non-homologous parts"
+    ],
+    "a": 1,
+    "e": "Deficiencies occur when a part of the chromosome is lost or deleted."
+  },
+  {
+    "q": "What occurs during a chromosomal duplication?",
+    "o": [
+      "A section is detached and reunited in reverse order",
+      "A part of the chromosome is lost",
+      "A part of the chromosome is added or duplicated",
+      "A whole chromosome is lost"
+    ],
+    "a": 2,
+    "e": "Duplications involve a part of the chromosome being added or duplicated."
+  },
+  {
+    "q": "An 'Inversion' in chromosomal variation is defined as:",
+    "o": [
+      "Transfer to a non-homologous chromosome",
+      "Sections detached and reunited in reverse order",
+      "Multiple copies of the same gene",
+      "Loss of the short arm"
+    ],
+    "a": 1,
+    "e": "Inversions involve sections of chromosomes being detached and reunited in reverse order."
+  },
+  {
+    "q": "When parts of chromosomes detach and join to non-homologous chromosomes, it is a:",
+    "o": [
+      "Duplication",
+      "Translocation",
+      "Inversion",
+      "Nondisjunction"
+    ],
+    "a": 1,
+    "e": "Translocations occur when parts of chromosomes are detached and joined to non-homologous chromosomes."
+  },
+  {
+    "q": "Cri du chat syndrome is specifically associated with:",
+    "o": [
+      "Trisomy 21",
+      "Deletion of part of the short arm of chromosome 5",
+      "Duplication of chromosome 13",
+      "Nondisjunction of sex chromosomes"
+    ],
+    "a": 1,
+    "e": "Cri du chat syndrome is associated with a deletion of part of the short arm (p arm) of chromosome 5."
+  },
+  {
+    "q": "Clinical symptoms of Cri du chat syndrome include:",
+    "o": [
+      "Tall stature and large head",
+      "Microcephaly and a cat-like cry",
+      "Broad skull and stubby hands",
+      "Low mentality and large tongue only"
+    ],
+    "a": 1,
+    "e": "Cri du chat includes microcephaly and a characteristic cat-like cry."
+  },
+  {
+    "q": "What is the primary cause of variation in chromosome number?",
+    "o": [
+      "Point mutations",
+      "Chemical mutagens",
+      "Nondisjunction during meiosis",
+      "Frameshift errors"
+    ],
+    "a": 2,
+    "e": "Variation in chromosome number results from nondisjunction, where chromosome pairs fail to separate during anaphase."
+  },
+  {
+    "q": "If nondisjunction occurs during Meiosis I, what is the result for the gametes?",
+    "o": [
+      "Half are normal, half are aberrant",
+      "All resulting gametes are aberrant (aneuploid)",
+      "All gametes are normal",
+      "Only one gamete is aberrant"
+    ],
+    "a": 1,
+    "e": "In Meiotic nondisjunction during meiosis I, all resulting gametes are aberrant."
+  },
+  {
+    "q": "If nondisjunction occurs during Meiosis II, what proportion of gametes are aberrant?",
+    "o": [
+      "All",
+      "One-quarter",
+      "Half",
+      "None"
+    ],
+    "a": 2,
+    "e": "When nondisjunction occurs during meiosis II, half of the resulting gametes are aberrant."
+  },
+  {
+    "q": "A child with Down Syndrome has how many total chromosomes?",
+    "o": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "a": 2,
+    "e": "A child with Down Syndrome has 47 chromosomes instead of 46."
+  },
+  {
+    "q": "Down Syndrome is specifically categorized as:",
+    "o": [
+      "Monosomy 21",
+      "Trisomy 21",
+      "Trisomy 13",
+      "Trisomy 18"
+    ],
+    "a": 1,
+    "e": "Down Syndrome is a Trisomy for chromosome 21, meaning there are three copies of that chromosome."
+  },
+  {
+    "q": "Which of the following is NOT a physical feature of Down Syndrome listed in the lecture?",
+    "o": [
+      "Tall stature",
+      "Epicanthal fold",
+      "Stubby hands",
+      "Large tongue"
+    ],
+    "a": 0,
+    "e": "Patients with Down Syndrome are usually short in stature (about 4 feet tall), not tall."
+  },
+  {
+    "q": "What is Patau Syndrome?",
+    "o": [
+      "Trisomy 18",
+      "Trisomy 13",
+      "Deletion of chromosome 5",
+      "X-linked mutation"
+    ],
+    "a": 1,
+    "e": "Patau Syndrome is defined as Trisomy 13."
+  },
+  {
+    "q": "Edwards Syndrome is identified by which chromosomal abnormality?",
+    "o": [
+      "Trisomy 13",
+      "Trisomy 18",
+      "Trisomy 21",
+      "Monosomy X"
+    ],
+    "a": 1,
+    "e": "Edwards Syndrome is categorized as Trisomy 18."
+  },
+  {
+    "q": "The term 'Aneuploidy' refers to:",
+    "o": [
+      "Normal chromosome number",
+      "An aberrant chromosome number resulting from nondisjunction",
+      "A point mutation in DNA",
+      "The reversal of gene order"
+    ],
+    "a": 1,
+    "e": "Aneuploidy describes the state of having an aberrant chromosome number, often resulting from nondisjunction."
+  },
+  {
+    "q": "What fundamental properties are shared by all cancer cells?",
+    "o": [
+      "Apoptosis and differentiation",
+      "Normal growth and spread",
+      "Abnormal growth/division and metastasis",
+      "Repair of DNA and cell-to-cell contact"
+    ],
+    "a": 2,
+    "e": "All cancer cells share abnormal cell growth/division (proliferation) and the propensity to spread/invade (metastasis)."
+  },
+  {
+    "q": "Cancer is primarily described as a genetic disease caused by mutations in:",
+    "o": [
+      "Germ cells",
+      "Somatic cells",
+      "Mitochondrial DNA",
+      "Ribosomal RNA"
+    ],
+    "a": 1,
+    "e": "Cancer is caused by mutations that occur predominantly in somatic cells."
+  },
+  {
+    "q": "What percentage of cancers are estimated to have a hereditary component?",
+    "o": [
+      "1-2%",
+      "5-10%",
+      "25-30%",
+      "Over 50%"
+    ],
+    "a": 1,
+    "e": "Only about 5-10% of cancers have a hereditary component."
+  },
+  {
+    "q": "How many mutations typically accumulate to cause cancer?",
+    "o": [
+      "Exactly one",
+      "Two or three",
+      "Six to twelve",
+      "Over fifty"
+    ],
+    "a": 2,
+    "e": "Cancer rarely arises from a single mutation; it usually results from the accumulation of six to twelve mutations."
+  },
+  {
+    "q": "Mutations leading to cancer affect which cellular function?",
+    "o": [
+      "Repair of DNA damage",
+      "Apoptosis",
+      "Cellular differentiation",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": "Cancer-related mutations affect multiple functions: DNA repair, cell division, apoptosis, differentiation, and more."
+  },
+  {
+    "q": "The propensity of cancer cells to spread and invade other parts of the body is called:",
+    "o": [
+      "Proliferation",
+      "Metastasis",
+      "Transition",
+      "Transversion"
+    ],
+    "a": 1,
+    "e": "Metastasis is the propensity of cancer cells to spread and invade other body parts."
+  },
+  {
+    "q": "Abnormal cell growth and division is also known as:",
+    "o": [
+      "Metastasis",
+      "Cell proliferation",
+      "Apoptosis",
+      "Inversion"
+    ],
+    "a": 1,
+    "e": "Abnormal cell growth and division is referred to as cell proliferation."
+  },
+  {
+    "q": "In the graph showing Down Syndrome risk, what happens as maternal age increases?",
+    "o": [
+      "Risk remains constant",
+      "Risk decreases significantly",
+      "Risk increases exponentially",
+      "Risk only increases after age 50"
+    ],
+    "a": 2,
+    "e": "The graph shows that the incidence of Down Syndrome increases with the age of the mother, rising sharply after age 35-40."
+  },
+  {
+    "q": "Which of the following is a pyrimidine being replaced by a different pyrimidine?",
+    "o": [
+      "A to G",
+      "C to T",
+      "A to C",
+      "G to T"
+    ],
+    "a": 1,
+    "e": "A transition occurs when a pyrimidine (C or T) is replaced by another pyrimidine (C or T)."
+  },
+  {
+    "q": "What does a nonsense mutation specifically produce?",
+    "o": [
+      "A basic amino acid",
+      "An equivalent protein",
+      "A termination (stop) codon",
+      "A frameshift in the sequence"
+    ],
+    "a": 2,
+    "e": "Nonsense mutations produce a termination codon, which stops translation prematurely."
+  },
+  {
+    "q": "Spontaneous lesions are a source of:",
+    "o": [
+      "Induced mutations",
+      "Spontaneous mutations",
+      "Chromosomal duplications",
+      "Translocations"
+    ],
+    "a": 1,
+    "e": "Spontaneous mutations arise from variety of sources including spontaneous lesions."
+  },
+  {
+    "q": "Genetic transfer via 'jumping genes' is associated with:",
+    "o": [
+      "Radiation",
+      "Transposable genetic elements",
+      "Chemical mutagens",
+      "Nondisjunction"
+    ],
+    "a": 1,
+    "e": "Transposable elements (mentioned as sources of spontaneous mutation) are often called jumping genes."
+  },
+  {
+    "q": "A chromosome structure change where a segment is reversed is an:",
+    "o": [
+      "Inversion",
+      "Insertion",
+      "Translocation",
+      "Deletion"
+    ],
+    "a": 0,
+    "e": "Inversion involves a section being detached and reunited in reverse order."
+  },
+  {
+    "q": "What describes a 'Disomy' in a Down Syndrome patient?",
+    "o": [
+      "Chromosome 21",
+      "The usual pairs of all chromosomes except 21",
+      "The presence of two X chromosomes",
+      "A deleted segment on chromosome 5"
+    ],
+    "a": 1,
+    "e": "In Down Syndrome, only chromosome 21 is a Trisomy; all other chromosomes are Disomy (usual pairs)."
+  },
+  {
+    "q": "Patients with Down Syndrome often have skulls that are:",
+    "o": [
+      "Long and narrow",
+      "Broad and short",
+      "Microcephalic",
+      "Normal and symmetrical"
+    ],
+    "a": 1,
+    "e": "Patients with Down Syndrome are described as having broad, short skulls."
+  },
+  {
+    "q": "A mutation that changes Lysine (basic) to Arginine (basic) is likely a:",
+    "o": [
+      "Silent mutation",
+      "Neutral mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+    ],
+    "a": 1,
+    "e": "This is a neutral mutation because it replaces one amino acid with a functionally equivalent one."
+  },
+  {
+    "q": "Which chromosomal syndrome is associated with 'Mongolism' in older terminology?",
+    "o": [
+      "Edwards Syndrome",
+      "Patau Syndrome",
+      "Down Syndrome",
+      "Cri du chat"
+    ],
+    "a": 2,
+    "e": "Down Syndrome was earlier called Mongolism due to the epicanthal fold."
+  },
+  {
+    "q": "Mutagenic agents like X-rays or UV light cause:",
+    "o": [
+      "Spontaneous mutations",
+      "Induced mutations",
+      "Disomy",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "Exposure to mutagenic agents like radiation results in induced mutations."
+  },
+  {
+    "q": "The Trisomy-18 condition is also known as:",
+    "o": [
+      "Patau Syndrome",
+      "Down Syndrome",
+      "Edwards Syndrome",
+      "Cri du chat"
+    ],
+    "a": 2,
+    "e": "Trisomy-18 is Edwards Syndrome."
+  },
+  {
+    "q": "Nondisjunction is the failure of:",
+    "o": [
+      "DNA polymerase to proofread",
+      "Chromosome pairs to separate at anaphase",
+      "Introns to be spliced out",
+      "RNA polymerase to bind the promoter"
+    ],
+    "a": 1,
+    "e": "Nondisjunction is the failure of a chromosome pair to separate during anaphase."
+  }
+]

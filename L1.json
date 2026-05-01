@@ -1,0 +1,552 @@
+[
+  {
+    "q": "What is the primary definition of Genetics according to the lecture?",
+    "o": [
+      "The study of DNA replication",
+      "The study of inherited variation",
+      "The study of protein synthesis",
+      "The study of cellular division"
+    ],
+    "a": 1,
+    "e": "Genetics is defined specifically as the study of inherited variation."
+  },
+  {
+    "q": "Which term describes a DNA sequence that instructs a cell to produce a specific protein?",
+    "o": [
+      "Allele",
+      "Chromosome",
+      "Gene",
+      "Genome"
+    ],
+    "a": 2,
+    "e": "A gene is a sequence of DNA that provides the instructions for producing a particular protein."
+  },
+  {
+    "q": "Alternate forms of a gene occurring at a specific locus are called:",
+    "o": [
+      "Genotypes",
+      "Phenotypes",
+      "Alleles",
+      "Introns"
+    ],
+    "a": 2,
+    "e": "Alleles are different forms of the same gene found at the same locus on a chromosome."
+  },
+  {
+    "q": "An individual with two identical alleles for a particular gene (e.g., TT or tt) is:",
+    "o": [
+      "Heterozygous",
+      "Homozygous",
+      "Hemizygous",
+      "Dihybrid"
+    ],
+    "a": 1,
+    "e": "Homozygous means having two identical alleles for a specific gene."
+  },
+  {
+    "q": "What is the term for the non-coding intervening sequences within a gene?",
+    "o": [
+      "Exons",
+      "Codons",
+      "Introns",
+      "Promoters"
+    ],
+    "a": 2,
+    "e": "Introns are the sequences within a gene that are removed and do not code for proteins, unlike exons."
+  },
+  {
+    "q": "Which of the following represents a heterozygous genotype?",
+    "o": [
+      "TT",
+      "tt",
+      "Tt",
+      "Both TT and tt"
+    ],
+    "a": 2,
+    "e": "Heterozygous refers to having two different alleles for a gene, symbolized as Tt."
+  },
+  {
+    "q": "The observable expression of a gene in terms of traits or symptoms is the:",
+    "o": [
+      "Genotype",
+      "Haplotype",
+      "Phenotype",
+      "Allele"
+    ],
+    "a": 2,
+    "e": "Phenotype is the physical expression or visible traits resulting from a genotype."
+  },
+  {
+    "q": "A gene variant that is expressed even when only one copy is present is:",
+    "o": [
+      "Recessive",
+      "Dominant",
+      "Codominant",
+      "Recombinant"
+    ],
+    "a": 1,
+    "e": "A dominant trait is expressed in both homozygous (TT) and heterozygous (Tt) states."
+  },
+  {
+    "q": "A recessive allele is expressed only when the individual is:",
+    "o": [
+      "Heterozygous",
+      "Homozygous dominant",
+      "Homozygous recessive",
+      "Diploid"
+    ],
+    "a": 2,
+    "e": "Recessive traits are masked by dominant ones and only appear in the homozygous recessive (tt) state."
+  },
+  {
+    "q": "A human gamete (sperm or ovum) is considered:",
+    "o": [
+      "Diploid",
+      "Haploid",
+      "Tetraploid",
+      "Aneuploid"
+    ],
+    "a": 1,
+    "e": "Gametes are haploid, meaning they contain only one set of chromosomes (23 in humans)."
+  },
+  {
+    "q": "Who is known as the 'Father of Genetics'?",
+    "o": [
+      "Watson and Crick",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Thomas Morgan"
+    ],
+    "a": 1,
+    "e": "Gregor Mendel (1822-1884) is recognized as the Father of Genetics due to his experiments with pea plants."
+  },
+  {
+    "q": "In Mendel's first experiment, crossing pure Tall and dwarf plants resulted in F1 offspring that were:",
+    "o": [
+      "50% Tall, 50% dwarf",
+      "All dwarf",
+      "All Tall",
+      "All intermediate height"
+    ],
+    "a": 2,
+    "e": "Mendel found that the first generation (F1) offspring were all Tall (Tt)."
+  },
+  {
+    "q": "What phenotypic ratio did Mendel observe in the F2 generation of a monohybrid cross?",
+    "o": [
+      "1:1",
+      "9:3:3:1",
+      "3:1",
+      "1:2:1"
+    ],
+    "a": 2,
+    "e": "Self-fertilizing the F1 generation produced an F2 generation with a 3:1 ratio of Tall to dwarf plants."
+  },
+  {
+    "q": "Mendel's First Law of Inheritance is the:",
+    "o": [
+      "Law of Independent Assortment",
+      "Law of Segregation",
+      "Law of Dominance",
+      "Law of Recombination"
+    ],
+    "a": 1,
+    "e": "The Law of Segregation states that alleles distribute into separate gametes during meiosis."
+  },
+  {
+    "q": "During which process does the segregation of alleles occur?",
+    "o": [
+      "Mitosis",
+      "Meiosis",
+      "Fertilization",
+      "Binary Fission"
+    ],
+    "a": 1,
+    "e": "Segregation occurs during meiosis when homologous chromosomes separate into different gametes."
+  },
+  {
+    "q": "The genotype 'Tt' is specifically referred to as:",
+    "o": [
+      "Homozygous Dominant",
+      "Homozygous Recessive",
+      "Heterozygous",
+      "Pure-bred"
+    ],
+    "a": 2,
+    "e": "Tt contains two different alleles, making it heterozygous."
+  },
+  {
+    "q": "In a dihybrid cross, Mendel studied how many traits simultaneously?",
+    "o": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "a": 1,
+    "e": "A dihybrid cross involves crossing organisms that differ in two traits, such as seed shape and color."
+  },
+  {
+    "q": "Crossing plants with Round Yellow seeds (RRYY) and Wrinkled Green seeds (rryy) results in F1 plants that are:",
+    "o": [
+      "Wrinkled and Green",
+      "Round and Yellow",
+      "Round and Green",
+      "Wrinkled and Yellow"
+    ],
+    "a": 1,
+    "e": "The F1 offspring are dihybrids showing both dominant traits: Round and Yellow."
+  },
+  {
+    "q": "What is the expected phenotypic ratio in the F2 generation of a dihybrid cross?",
+    "o": [
+      "3:1",
+      "1:1:1:1",
+      "9:3:3:1",
+      "27:9:9:9:3:3:3:1"
+    ],
+    "a": 2,
+    "e": "A dihybrid cross between two heterozygotes results in a 9:3:3:1 phenotypic ratio."
+  },
+  {
+    "q": "Mendel's Second Law of Heredity is the:",
+    "o": [
+      "Law of Segregation",
+      "Law of Independent Assortment",
+      "Law of Linkage",
+      "Law of Unit Characters"
+    ],
+    "a": 1,
+    "e": "The Law of Independent Assortment states that the inheritance of one gene does not influence the inheritance of another on a different chromosome."
+  },
+  {
+    "q": "Independent Assortment occurs due to the random arrangement of chromosomes during:",
+    "o": [
+      "Prophase I",
+      "Metaphase I",
+      "Anaphase II",
+      "Telophase I"
+    ],
+    "a": 1,
+    "e": "Independent assortment happens during Metaphase I of meiosis when homologous pairs align randomly at the cell center."
+  },
+  {
+    "q": "A cross involving parents differing in three pairs of genes is called a:",
+    "o": [
+      "Monohybrid cross",
+      "Dihybrid cross",
+      "Trihybrid cross",
+      "Testcross"
+    ],
+    "a": 2,
+    "e": "A trihybrid cross follows the inheritance patterns of three different traits simultaneously."
+  },
+  {
+    "q": "What event during Prophase I involves the exchange of parts between homologous chromosomes?",
+    "o": [
+      "Segregation",
+      "Independent Assortment",
+      "Crossing Over",
+      "Nondisjunction"
+    ],
+    "a": 2,
+    "e": "Crossing over is the exchange of genetic material between homologous chromosomes during Prophase I."
+  },
+  {
+    "q": "Progeny that exhibit new combinations of maternal and paternal alleles due to crossing over are called:",
+    "o": [
+      "Mutants",
+      "Recombinants",
+      "Hybrids",
+      "Pure-lines"
+    ],
+    "a": 1,
+    "e": "Recombinant progeny show new gene combinations not found in either parent."
+  },
+  {
+    "q": "A chromosome that does not determine the sex of an individual is called an:",
+    "o": [
+      "Allosome",
+      "Autosome",
+      "X chromosome",
+      "Y chromosome"
+    ],
+    "a": 1,
+    "e": "Autosomes are chromosomes (pairs 1-22 in humans) that do not carry sex-determining genes."
+  },
+  {
+    "q": "How many autosomes are typically found in a human egg cell?",
+    "o": [
+      "44",
+      "46",
+      "23",
+      "22"
+    ],
+    "a": 3,
+    "e": "A human egg contains 22 autosomes and one X chromosome."
+  },
+  {
+    "q": "Which gamete determines the sex of the offspring in humans?",
+    "o": [
+      "The Egg",
+      "The Sperm",
+      "Both equally",
+      "Neither"
+    ],
+    "a": 1,
+    "e": "Sex is determined by the sperm, which can carry either an X or a Y chromosome."
+  },
+  {
+    "q": "A zygote with 'XY' sex chromosomes will develop into a:",
+    "o": [
+      "Female",
+      "Male",
+      "Hermaphrodite",
+      "Turner syndrome patient"
+    ],
+    "a": 1,
+    "e": "In the XX-XY mechanism, the presence of the Y chromosome (XY) results in a male."
+  },
+  {
+    "q": "Which chromosome is smaller and contains fewer genes?",
+    "o": [
+      "X chromosome",
+      "Y chromosome",
+      "Chromosome 1",
+      "Chromosome 21"
+    ],
+    "a": 1,
+    "e": "The Y chromosome is much smaller than the X chromosome and carries fewer genes."
+  },
+  {
+    "q": "Sex-linked traits are usually determined by genes located on the:",
+    "o": [
+      "Autosomes",
+      "Y chromosome",
+      "X chromosome",
+      "Mitochondrial DNA"
+    ],
+    "a": 2,
+    "e": "Sex-linked traits usually refer to genes located on the X chromosome."
+  },
+  {
+    "q": "Why are men more frequently affected by X-linked recessive diseases like color blindness?",
+    "o": [
+      "They have two X chromosomes",
+      "They only have one X chromosome",
+      "The Y chromosome carries the disease gene",
+      "They produce more testosterone"
+    ],
+    "a": 1,
+    "e": "Men are hemizygous for the X chromosome; a single recessive allele on their X chromosome will express the trait."
+  },
+  {
+    "q": "What is the approximate incidence of red-green color blindness in men?",
+    "o": [
+      "1 in 200",
+      "1 in 20",
+      "1 in 100",
+      "1 in 500"
+    ],
+    "a": 1,
+    "e": "Color blindness affects about one in 20 men."
+  },
+  {
+    "q": "What is the approximate incidence of red-green color blindness in women?",
+    "o": [
+      "1 in 20",
+      "1 in 200",
+      "1 in 2000",
+      "1 in 10"
+    ],
+    "a": 1,
+    "e": "Color blindness is much rarer in women, affecting approximately one in 200."
+  },
+  {
+    "q": "Diseases inherited through chromosome pairs 1 through 22 are called:",
+    "o": [
+      "Sex-linked diseases",
+      "Autosomally inherited diseases",
+      "Y-linked diseases",
+      "X-linked dominant diseases"
+    ],
+    "a": 1,
+    "e": "Autosomally inherited diseases are those found on the non-sex chromosomes (1-22)."
+  },
+  {
+    "q": "In the provided micrograph of a human cell, how many total chromosomes are present?",
+    "o": [
+      "23",
+      "44",
+      "46",
+      "92"
+    ],
+    "a": 2,
+    "e": "A normal human somatic cell contains 46 chromosomes (23 pairs)."
+  },
+  {
+    "q": "Which term describes a female in terms of sex chromosome composition?",
+    "o": [
+      "Heterogametic",
+      "Homogametic",
+      "Hemizygous",
+      "Haploid"
+    ],
+    "a": 1,
+    "e": "Females are homogametic because they produce only one type of egg (X)."
+  },
+  {
+    "q": "Which term describes a male in terms of sex chromosome composition?",
+    "o": [
+      "Homogametic",
+      "Heterogametic",
+      "Diploid",
+      "Recombinant"
+    ],
+    "a": 1,
+    "e": "Males are heterogametic because they produce two types of sperm (X or Y)."
+  },
+  {
+    "q": "If a father has an X-linked recessive disorder and the mother is a non-carrier, what is the probability a son will have the disorder?",
+    "o": [
+      "100%",
+      "50%",
+      "25%",
+      "0%"
+    ],
+    "a": 3,
+    "e": "A son inherits his Y chromosome from his father and his X from his mother; if the mother is a non-carrier, the son will not have the disorder."
+  },
+  {
+    "q": "Crossing over occurs during which specific phase of meiosis?",
+    "o": [
+      "Prophase II",
+      "Metaphase I",
+      "Prophase I",
+      "Anaphase I"
+    ],
+    "a": 2,
+    "e": "Crossing over occurs specifically during Prophase I of meiosis."
+  },
+  {
+    "q": "In Mendel's dihybrid cross of Round Yellow (RRYY) x Wrinkled Green (rryy), what are the four phenotypic combinations in F2?",
+    "o": [
+      "All Round Yellow",
+      "Round Yellow, Round Green, Wrinkled Yellow, Wrinkled Green",
+      "9 Round Yellow, 7 Wrinkled Green",
+      "Round Yellow and Wrinkled Green only"
+    ],
+    "a": 1,
+    "e": "The F2 generation shows all four possible combinations due to independent assortment."
+  },
+  {
+    "q": "Which of these is a diploid number for humans?",
+    "o": [
+      "23",
+      "46",
+      "22",
+      "44"
+    ],
+    "a": 1,
+    "e": "The diploid (2n) number in humans is 46."
+  },
+  {
+    "q": "The site where crossing over occurs is called the:",
+    "o": [
+      "Centromere",
+      "Chiasma",
+      "Kinetochore",
+      "Locus"
+    ],
+    "a": 1,
+    "e": "The chiasma is the physical site of crossing over between non-sister chromatids."
+  },
+  {
+    "q": "How many total autosomes does a normal human somatic cell contain?",
+    "o": [
+      "22",
+      "23",
+      "44",
+      "46"
+    ],
+    "a": 2,
+    "e": "There are 44 autosomes (22 pairs) in a human somatic cell."
+  },
+  {
+    "q": "What is the genotype of a pure-breeding dwarf pea plant?",
+    "o": [
+      "TT",
+      "Tt",
+      "tt",
+      "t"
+    ],
+    "a": 2,
+    "e": "Dwarfness is recessive, so a pure-breeding plant must be homozygous recessive (tt)."
+  },
+  {
+    "q": "What does the symbol 'T' represent in the lecture's height example?",
+    "o": [
+      "Recessive dwarf allele",
+      "Dominant Tall allele",
+      "The Tall phenotype",
+      "The dwarf phenotype"
+    ],
+    "a": 1,
+    "e": "The capital letter 'T' is used to symbolize the dominant allele for Tallness."
+  },
+  {
+    "q": "A cell containing only one set of chromosomes is:",
+    "o": [
+      "Diploid",
+      "Haploid",
+      "Polyploid",
+      "Homozygous"
+    ],
+    "a": 1,
+    "e": "Haploid cells, like gametes, contain a single set of chromosomes."
+  },
+  {
+    "q": "If an organism has the genotype BB, it is:",
+    "o": [
+      "Homozygous recessive",
+      "Heterozygous",
+      "Homozygous dominant",
+      "Hemizygous"
+    ],
+    "a": 2,
+    "e": "BB represents two identical dominant alleles, making it homozygous dominant."
+  },
+  {
+    "q": "The 'XX-XY Mechanism' refers to:",
+    "o": [
+      "Gene mutation",
+      "Protein synthesis",
+      "Sex determination",
+      "Crossing over"
+    ],
+    "a": 2,
+    "e": "This mechanism describes how sex is determined by X and Y chromosomes."
+  },
+  {
+    "q": "Which of the following is NOT a Mendelian law?",
+    "o": [
+      "Law of Segregation",
+      "Law of Independent Assortment",
+      "Law of Crossing Over",
+      "None of the above"
+    ],
+    "a": 2,
+    "e": "The Laws of Segregation and Independent Assortment are Mendel's; 'Crossing Over' is a genetic mechanism discovered later."
+  },
+  {
+    "q": "In a testcross, if a Tall plant (T?) is crossed with a dwarf plant (tt) and all offspring are Tall, the unknown genotype is:",
+    "o": [
+      "Tt",
+      "tt",
+      "TT",
+      "Cannot be determined"
+    ],
+    "a": 2,
+    "e": "If all offspring are Tall, the parent must have been homozygous dominant (TT) to ensure all offspring received a dominant 'T' allele."
+  }
+]

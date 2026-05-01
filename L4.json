@@ -1,0 +1,552 @@
+[
+  {
+    "q": "What is the definition of a 'Genome' as per the lecture?",
+    "o": [
+      "A single pair of chromosomes",
+      "The complete set of chromosomes and genes in an organism",
+      "Only the protein-coding DNA",
+      "The sequence of mitochondrial DNA only"
+    ],
+    "a": 1,
+    "e": "The genome is defined as the complete set of chromosomes and genes within an organism."
+  },
+  {
+    "q": "How many pairs of chromosomes are found in the human genome?",
+    "o": [
+      "46 pairs",
+      "23 pairs",
+      "22 pairs",
+      "12 pairs"
+    ],
+    "a": 1,
+    "e": "The human genome consists of 23 pairs of chromosomes plus a small amount of mitochondrial DNA."
+  },
+  {
+    "q": "What is the approximate total length of DNA in every human cell?",
+    "o": [
+      "1 meter",
+      "2 meters",
+      "3 meters",
+      "0.5 meters"
+    ],
+    "a": 1,
+    "e": "Every human cell contains approximately 2 meters of DNA."
+  },
+  {
+    "q": "The human genome contains how many DNA subunits (bases)?",
+    "o": [
+      "3 million",
+      "30,000",
+      "3 billion",
+      "16,569"
+    ],
+    "a": 2,
+    "e": "The human genome consists of approximately 3 billion DNA subunits (the bases A, T, C, G)."
+  },
+  {
+    "q": "What percentage of human genomic DNA is made up of genes?",
+    "o": [
+      "95%",
+      "50%",
+      "5%",
+      "0.3%"
+    ],
+    "a": 2,
+    "e": "Genes only make up approximately 5% of human genomic DNA, with the rest considered 'junk DNA'."
+  },
+  {
+    "q": "What percentage of the human genome is identical among individuals?",
+    "o": [
+      "99.7%",
+      "0.3%",
+      "100%",
+      "95%"
+    ],
+    "a": 0,
+    "e": "According to the lecture, 99.7% of human genomes are identical."
+  },
+  {
+    "q": "Which part of a gene is responsible for coding proteins?",
+    "o": [
+      "Intron",
+      "Centromere",
+      "Exon",
+      "Telomere"
+    ],
+    "a": 2,
+    "e": "Genes consist of exons, which are the protein-coding portions, and introns, which are non-coding regions."
+  },
+  {
+    "q": "Where is mitochondrial DNA (mtDNA) located in the cell?",
+    "o": [
+      "Cell nucleus",
+      "Cell cytoplasm",
+      "Ribosomes",
+      "Cell membrane"
+    ],
+    "a": 1,
+    "e": "Mitochondrial DNA is located in the mitochondria, with multiple copies in the cell cytoplasm."
+  },
+  {
+    "q": "What is the size of human mitochondrial DNA (mtDNA)?",
+    "o": [
+      "3 billion bp",
+      "3.2 billion bp",
+      "16,569 bp",
+      "30,000 bp"
+    ],
+    "a": 2,
+    "e": "The mitochondrial DNA consists of 16,569 base pairs (bp)."
+  },
+  {
+    "q": "Chromosomes consist of DNA and which other primary components?",
+    "o": [
+      "Lipids and RNA",
+      "Associated proteins and RNA",
+      "Only DNA",
+      "Carbohydrates and Enzymes"
+    ],
+    "a": 1,
+    "e": "Chromosomes consist of a tightly coiled thread of DNA with associated proteins and RNA."
+  },
+  {
+    "q": "Which term refers to the structure holding two chromatids together?",
+    "o": [
+      "Telomere",
+      "Centromere",
+      "Histone",
+      "Nucleosome"
+    ],
+    "a": 1,
+    "e": "A chromosome consists of two chromatids held together by a centromere."
+  },
+  {
+    "q": "What type of chromatin stains lightly and is genetically active?",
+    "o": [
+      "Heterochromatin",
+      "Nucleoprotein",
+      "Euchromatin",
+      "Chromatid"
+    ],
+    "a": 2,
+    "e": "Euchromatin stains lightly, is uncoiled during interphase, and contains genes that are being expressed."
+  },
+  {
+    "q": "Heterochromatin is characterized by being:",
+    "o": [
+      "Lightly stained and active",
+      "Darkly stained and genetically inactive",
+      "Uncoiled during interphase",
+      "Found only in mitochondria"
+    ],
+    "a": 1,
+    "e": "Heterochromatin remains condensed during interphase, stains darkly, and is genetically inactive."
+  },
+  {
+    "q": "Where is heterochromatin often found on a chromosome?",
+    "o": [
+      "Along the exons",
+      "In centromeric or telomeric regions",
+      "Only in the cytoplasm",
+      "At the replication fork"
+    ],
+    "a": 1,
+    "e": "Heterochromatin is often found at specific sites such as centromeric or telomeric regions."
+  },
+  {
+    "q": "Histones are basic proteins because they are:",
+    "o": [
+      "Negatively charged",
+      "Positively charged",
+      "Neutral",
+      "Acidic"
+    ],
+    "a": 1,
+    "e": "Histones are basic proteins that are positively charged, which facilitates their binding to negatively charged DNA."
+  },
+  {
+    "q": "Which of the following is NOT a constant histone protein in eukaryotic cells?",
+    "o": [
+      "H2a",
+      "H3",
+      "H1",
+      "H4"
+    ],
+    "a": 2,
+    "e": "Histones H2a, H2b, H3, and H4 are constant from cell to cell, while H1 is often considered separately or not part of this list."
+  },
+  {
+    "q": "What is the primary function of Non-Histone Chromosomal Proteins?",
+    "o": [
+      "Coiling DNA in chromosomes",
+      "Regulation of expression of specific genes",
+      "Providing negative charge to DNA",
+      "Forming the mitochondrial genome"
+    ],
+    "a": 1,
+    "e": "Non-histone proteins have roles in the regulation of the expression of specific genes or sets of genes."
+  },
+  {
+    "q": "A chromosome with the centromere in the middle is called:",
+    "o": [
+      "Metacentric",
+      "Submetacentric",
+      "Acrocentric",
+      "Telocentric"
+    ],
+    "a": 0,
+    "e": "In a metacentric chromosome, the centromere is in the middle."
+  },
+  {
+    "q": "An acrocentric chromosome has its centromere located:",
+    "o": [
+      "At the very end",
+      "In the middle",
+      "Very near the end",
+      "Between the middle and end"
+    ],
+    "a": 2,
+    "e": "Acrocentric chromosomes have the centromere very near the end of the chromosome."
+  },
+  {
+    "q": "A 'Karyotype' is an arrangement of chromosomes based on:",
+    "o": [
+      "Color and shape",
+      "Length and position of centromere",
+      "Number of genes",
+      "Replication speed"
+    ],
+    "a": 1,
+    "e": "A karyotype consists of chromosomes arranged in pairs according to their length and the position of their centromere during mitotic metaphase."
+  },
+  {
+    "q": "Which sugar is found in DNA nucleotides?",
+    "o": [
+      "Ribose sugar",
+      "Deoxyribose sugar",
+      "Glucose sugar",
+      "Sucrose sugar"
+    ],
+    "a": 1,
+    "e": "Each DNA nucleotide consists of a phosphate group, a nitrogenous base, and a five-carbon deoxyribose sugar."
+  },
+  {
+    "q": "Which nitrogenous bases are classified as Purines?",
+    "o": [
+      "Cytosine and Thymine",
+      "Adenine and Guanine",
+      "Adenine and Thymine",
+      "Guanine and Cytosine"
+    ],
+    "a": 1,
+    "e": "Adenine (A) and Guanine (G) are purines, which have a two-ring structure."
+  },
+  {
+    "q": "What is the structural character of Pyrimidines?",
+    "o": [
+      "Two-ring structure",
+      "Three-ring structure",
+      "Single-ring structure",
+      "No-ring structure"
+    ],
+    "a": 2,
+    "e": "Cytosine (C) and Thymine (T) are pyrimidines, which have a single-ring structure."
+  },
+  {
+    "q": "Who proposed the double helix model of DNA in 1953?",
+    "o": [
+      "Mendel and Landsteiner",
+      "Watson and Crick",
+      "Wiener and Landsteiner",
+      "Darwin and Watson"
+    ],
+    "a": 1,
+    "e": "Watson and Crick proposed the Double Helix model in 1953."
+  },
+  {
+    "q": "How are adjacent nucleotides in a single DNA strand linked?",
+    "o": [
+      "Hydrogen bonds",
+      "Phosphodiester bonds",
+      "Ionic bonds",
+      "Peptide bonds"
+    ],
+    "a": 1,
+    "e": "Nucleotides in a strand are linked by phosphodiester bonds joining adjacent deoxyribose moieties."
+  },
+  {
+    "q": "Adenine (A) always pairs with Thymine (T) via:",
+    "o": [
+      "1 Hydrogen bond",
+      "2 Hydrogen bonds",
+      "3 Hydrogen bonds",
+      "A covalent bond"
+    ],
+    "a": 1,
+    "e": "Adenine always pairs with Thymine by 2 hydrogen bonds."
+  },
+  {
+    "q": "Guanine (G) and Cytosine (C) are held together by:",
+    "o": [
+      "2 Hydrogen bonds",
+      "3 Hydrogen bonds",
+      "4 Hydrogen bonds",
+      "Phosphodiester bonds"
+    ],
+    "a": 1,
+    "e": "Guanine always pairs with Cytosine by 3 hydrogen bonds."
+  },
+  {
+    "q": "The property that makes DNA uniquely suited to transmit genetic information is:",
+    "o": [
+      "Antiparallelism",
+      "Complementarity of the two strands",
+      "Presence of junk DNA",
+      "Histone binding"
+    ],
+    "a": 1,
+    "e": "The complementarity of the two strands allows DNA to store and transmit genetic information."
+  },
+  {
+    "q": "What does 'Antiparallel' mean in the context of DNA structure?",
+    "o": [
+      "Both strands run in 5' to 3' direction",
+      "Strands run in opposite directions (5' to 3' and 3' to 5')",
+      "The strands do not pair with each other",
+      "The strands contain different sugars"
+    ],
+    "a": 1,
+    "e": "Antiparallelism means one strand runs in the 5' to 3' direction while the other runs in the 3' to 5' direction."
+  },
+  {
+    "q": "Why does DNA carry a negative charge?",
+    "o": [
+      "Due to the nitrogenous bases",
+      "Because of the Histones",
+      "Due to the phosphate groups",
+      "Because of the deoxyribose sugar"
+    ],
+    "a": 2,
+    "e": "DNA molecules carry negative charges because of their phosphate groups."
+  },
+  {
+    "q": "Which of the following is NOT a major characteristic required for genetic material?",
+    "o": [
+      "Replication",
+      "Storage of information",
+      "Metabolism of glucose",
+      "Variation by mutation"
+    ],
+    "a": 2,
+    "e": "The four major characteristics are replication, storage, expression, and variation by mutation."
+  },
+  {
+    "q": "DNA replication is described as being:",
+    "o": [
+      "Conservative",
+      "Semiconservative",
+      "Dispersive",
+      "Degradative"
+    ],
+    "a": 1,
+    "e": "Replication of DNA is semiconservative, meaning each single strand serves as a template for a new complementary strand."
+  },
+  {
+    "q": "What is the site called where the DNA double helix is locally opened for replication?",
+    "o": [
+      "Centromere",
+      "Replication fork",
+      "Telomere",
+      "Okazaki site"
+    ],
+    "a": 1,
+    "e": "The site where DNA is locally opened is called the replication fork."
+  },
+  {
+    "q": "Which enzyme is responsible for unwinding the parental double helix?",
+    "o": [
+      "Ligase",
+      "Helicase",
+      "Primase",
+      "DNA Polymerase"
+    ],
+    "a": 1,
+    "e": "Helicase unwinds the parental double helix."
+  },
+  {
+    "q": "What is the function of 'Binding Proteins' during replication?",
+    "o": [
+      "Adding RNA primers",
+      "Stabilizing separate DNA strands",
+      "Joining Okazaki fragments",
+      "Proofreading DNA"
+    ],
+    "a": 1,
+    "e": "Binding proteins stabilize the separate single strands to keep them apart."
+  },
+  {
+    "q": "Which enzyme adds a short RNA primer to the template strand?",
+    "o": [
+      "Helicase",
+      "DNA Polymerase",
+      "Primase",
+      "Ligase"
+    ],
+    "a": 2,
+    "e": "Primase adds a short RNA primer to the template strand to initiate replication."
+  },
+  {
+    "q": "DNA Polymerase can only add bases in which direction?",
+    "o": [
+      "3' to 5' direction",
+      "5' to 3' direction",
+      "Both directions",
+      "Randomly"
+    ],
+    "a": 1,
+    "e": "DNA Polymerase adds bases in the 5' to 3' direction only."
+  },
+  {
+    "q": "The DNA strand synthesized continuously in the 5' to 3' direction is the:",
+    "o": [
+      "Lagging strand",
+      "Template strand",
+      "Leading strand",
+      "Okazaki strand"
+    ],
+    "a": 2,
+    "e": "The strand synthesized continuously is called the leading strand."
+  },
+  {
+    "q": "What are the short segments of DNA synthesized on the lagging strand called?",
+    "o": [
+      "Exons",
+      "Okazaki fragments",
+      "RNA primers",
+      "Introns"
+    ],
+    "a": 1,
+    "e": "The lagging strand is synthesized discontinuously via short segments called Okazaki fragments."
+  },
+  {
+    "q": "Which enzyme joins Okazaki fragments together?",
+    "o": [
+      "Helicase",
+      "DNA Polymerase",
+      "Ligase",
+      "Primase"
+    ],
+    "a": 2,
+    "e": "Ligase joins Okazaki fragments and seals nicks in the sugar-phosphate backbone."
+  },
+  {
+    "q": "DNA Polymerase performs which activity to ensure accuracy?",
+    "o": [
+      "Unwinding",
+      "Proofreading",
+      "Splicing",
+      "Transcription"
+    ],
+    "a": 1,
+    "e": "DNA polymerase has proofreading activity that checks and replaces incorrect bases."
+  },
+  {
+    "q": "In DNA replication, what happens to the RNA primer?",
+    "o": [
+      "It remains part of the new strand",
+      "It is removed by DNA polymerase",
+      "It is converted into a gene",
+      "It stays at the centromere"
+    ],
+    "a": 1,
+    "e": "DNA polymerase is responsible for removing the RNA primer during the replication process."
+  },
+  {
+    "q": "A segment of DNA that contains the code for a protein or RNA is a:",
+    "o": [
+      "Chromosome",
+      "Gene",
+      "Centromere",
+      "Nucleotide"
+    ],
+    "a": 1,
+    "e": "A gene is a certain segment of DNA that contains the necessary code to make RNA or polypeptides."
+  },
+  {
+    "q": "Genes accomplish their function through replication and which other processes?",
+    "o": [
+      "Mitosis and Meiosis",
+      "Transcription and Translation",
+      "Digestion and Respiration",
+      "Mutation and Segregation"
+    ],
+    "a": 1,
+    "e": "Genes function through replication, transcription, and translation."
+  },
+  {
+    "q": "What category of proteins includes scaffold proteins and chromatin-bound enzymes?",
+    "o": [
+      "Histones",
+      "Non-Histone Chromosomal Proteins",
+      "Lipoproteins",
+      "Ribosomal proteins"
+    ],
+    "a": 1,
+    "e": "Non-histone proteins fall into functional categories including scaffold proteins and chromatin-bound enzymes."
+  },
+  {
+    "q": "Which type of chromosome has the centromere at the very end?",
+    "o": [
+      "Metacentric",
+      "Acrocentric",
+      "Telocentric",
+      "Submetacentric"
+    ],
+    "a": 2,
+    "e": "In a telocentric chromosome, the centromere is at the end."
+  },
+  {
+    "q": "Approximately how many genes in the human genome code for proteins?",
+    "o": [
+      "3 billion",
+      "100,000",
+      "30,000",
+      "5,000"
+    ],
+    "a": 2,
+    "e": "Approximately 30,000 genes code for proteins that perform most life functions."
+  },
+  {
+    "q": "Which nitrogenous base is found in RNA but NOT in DNA?",
+    "o": [
+      "Adenine",
+      "Thymine",
+      "Uracil",
+      "Guanine"
+    ],
+    "a": 2,
+    "e": "The diagrams show Uracil (U) as an RNA base, while DNA uses Thymine (T)."
+  },
+  {
+    "q": "Each phosphate group in the DNA backbone links which carbons of the sugars?",
+    "o": [
+      "1' and 2'",
+      "3' and 5'",
+      "2' and 4'",
+      "5' and 5'"
+    ],
+    "a": 1,
+    "e": "Each phosphate group links the 3' carbon of one sugar to the 5' carbon of the next sugar along the backbone."
+  },
+  {
+    "q": "DNA is identical in which of the following?",
+    "o": [
+      "All cells in the world",
+      "All nucleated cells of a person's body",
+      "Only the brain cells",
+      "Only the germ cells"
+    ],
+    "a": 1,
+    "e": "DNA is the same in all nucleated cells of a person's body."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "q": "Which sugar is found in RNA molecules?",
+    "o": [
+      "Deoxyribose",
+      "Ribose",
+      "Glucose",
+      "Sucrose"
+    ],
+    "a": 1,
+    "e": "RNA (Ribonucleic acid) contains ribose as its sugar component."
+  },
+  {
+    "q": "Which nitrogenous base is unique to RNA and replaces thymine?",
+    "o": [
+      "Adenine",
+      "Guanine",
+      "Cytosine",
+      "Uracil"
+    ],
+    "a": 3,
+    "e": "RNA contains uracil in place of the thymine found in DNA."
+  },
+  {
+    "q": "Why is RNA generally less stable and more reactive than DNA?",
+    "o": [
+      "It is double-stranded",
+      "It contains deoxyribose",
+      "It has a hydroxyl group on the 2'-carbon",
+      "It lacks phosphate groups"
+    ],
+    "a": 2,
+    "e": "The presence of the -OH (hydroxyl) group on the 2'-carbon of ribose makes RNA much less stable and more reactive than DNA."
+  },
+  {
+    "q": "RNA secondary structures, such as hairpins, are formed due to:",
+    "o": [
+      "Covalent bonding with proteins",
+      "Hydrogen bonding between complementary bases on the same strand",
+      "Ionic bonding with DNA",
+      "Peptide bonds between nucleotides"
+    ],
+    "a": 1,
+    "e": "An RNA molecule folds to form secondary structures owing to hydrogen bonding between complementary bases on the same strand."
+  },
+  {
+    "q": "Functionally, what is the primary role of DNA compared to RNA?",
+    "o": [
+      "Transports amino acids",
+      "Catalyzes protein synthesis",
+      "Persists and stores encoding information",
+      "Acts as a transient carrier of information"
+    ],
+    "a": 2,
+    "e": "DNA persists and stores RNA and protein encoding information, whereas RNA is often transient."
+  },
+  {
+    "q": "Which type of RNA encodes the amino acid sequence of a polypeptide?",
+    "o": [
+      "tRNA",
+      "rRNA",
+      "snRNA",
+      "mRNA"
+    ],
+    "a": 3,
+    "e": "Messenger RNA (mRNA) encodes the amino acid sequence."
+  },
+  {
+    "q": "What is the function of Transfer RNA (tRNA)?",
+    "o": [
+      "It forms the structure of the ribosome",
+      "It transports specific amino acids to the ribosome",
+      "It removes introns from pre-mRNA",
+      "It provides the genetic template for transcription"
+    ],
+    "a": 1,
+    "e": "Transfer RNA (tRNA) transports specific amino acids to the ribosome for protein synthesis."
+  },
+  {
+    "q": "Which RNA type associates with proteins to form the catalyst for protein synthesis?",
+    "o": [
+      "mRNA",
+      "snRNA",
+      "rRNA",
+      "siRNA"
+    ],
+    "a": 2,
+    "e": "Ribosomal RNA (rRNA) associates with proteins to form ribosomes which catalyze protein synthesis."
+  },
+  {
+    "q": "Small nuclear RNA (snRNA) is a critical component of which structure?",
+    "o": [
+      "The Ribosome",
+      "The Promoter",
+      "The Spliceosome",
+      "The RNA Polymerase"
+    ],
+    "a": 2,
+    "e": "snRNA are components of spliceosomes, which are necessary for splicing eukaryotic pre-mRNA."
+  },
+  {
+    "q": "A genetic code word consisting of three mRNA bases is called a:",
+    "o": [
+      "Anticodon",
+      "Codon",
+      "Intron",
+      "Exon"
+    ],
+    "a": 1,
+    "e": "Each three mRNA bases in a row form a genetic code word or codon."
+  },
+  {
+    "q": "The transfer of genetic information from DNA to a complementary RNA molecule is:",
+    "o": [
+      "Replication",
+      "Translation",
+      "Transcription",
+      "Transformation"
+    ],
+    "a": 2,
+    "e": "Transcription is the transfer of genetic information from DNA by the synthesis of a complementary RNA molecule."
+  },
+  {
+    "q": "Transcription is catalyzed by which enzyme?",
+    "o": [
+      "DNA Polymerase",
+      "RNA Polymerase",
+      "Helicase",
+      "Peptidyl Transferase"
+    ],
+    "a": 1,
+    "e": "Transcription occurs under the direction of RNA polymerase."
+  },
+  {
+    "q": "What is a 'promoter' in the context of transcription?",
+    "o": [
+      "An enzyme that starts the process",
+      "A special DNA sequence that signals the start of a gene",
+      "A protein that binds to the ribosome",
+      "A sequence that signals the end of transcription"
+    ],
+    "a": 1,
+    "e": "A promoter is a special DNA sequence that signals the start of the gene where RNA polymerase binds."
+  },
+  {
+    "q": "Which proteins help RNA polymerase bind to the promoter and regulate gene expression?",
+    "o": [
+      "Histones",
+      "Transcription factors",
+      "Chaperones",
+      "Binding proteins"
+    ],
+    "a": 1,
+    "e": "Transcription factors help RNA polymerase bind to a gene's promoter."
+  },
+  {
+    "q": "During the initiation of transcription, which protein specifically recognizes the TATA region?",
+    "o": [
+      "RNA Polymerase II",
+      "TATA binding protein",
+      "Ligase",
+      "snRNA"
+    ],
+    "a": 1,
+    "e": "A binding protein recognizes the TATA region and binds to the DNA to allow other factors to bind."
+  },
+  {
+    "q": "In which direction are RNA nucleotides added to the growing chain during elongation?",
+    "o": [
+      "3' to 5'",
+      "5' to 3'",
+      "C-terminus to N-terminus",
+      "N-terminus to C-terminus"
+    ],
+    "a": 1,
+    "e": "RNA polymerase adds nucleotides in a 5' to 3' direction relative to the RNA strand."
+  },
+  {
+    "q": "The DNA strand that is actually transcribed into RNA is the:",
+    "o": [
+      "Coding strand",
+      "Template strand",
+      "Sense strand",
+      "Leading strand"
+    ],
+    "a": 1,
+    "e": "RNA is transcribed from the template strand of DNA."
+  },
+  {
+    "q": "What signals the end of the transcription process?",
+    "o": [
+      "Stop codon",
+      "Poly (A) tail",
+      "Termination sequence",
+      "Spliceosome"
+    ],
+    "a": 2,
+    "e": "A termination sequence in the gene signals the end of transcription."
+  },
+  {
+    "q": "Where does transcription occur in a eukaryotic cell?",
+    "o": [
+      "Cytoplasm",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria only"
+    ],
+    "a": 2,
+    "e": "Transcription and RNA processing occur in the nucleus."
+  },
+  {
+    "q": "What are the coding sequences of a eukaryotic gene called?",
+    "o": [
+      "Introns",
+      "Exons",
+      "Codons",
+      "Promoters"
+    ],
+    "a": 1,
+    "e": "Exons are the coding sequences, while introns are non-coding."
+  },
+  {
+    "q": "Which modification is added to the 5' end of eukaryotic primary transcripts?",
+    "o": [
+      "Poly (A) tail",
+      "Spliceosome",
+      "7-Methyl guanosine cap",
+      "Start codon"
+    ],
+    "a": 2,
+    "e": "7-Methyl guanosine caps are added to the 5' ends of the primary transcripts."
+  },
+  {
+    "q": "What is the purpose of adding a Poly (A) tail to the 3' end of mRNA?",
+    "o": [
+      "It removes introns",
+      "It signals the start of transcription",
+      "It is important for RNA stability and translation",
+      "It codes for the first amino acid"
+    ],
+    "a": 2,
+    "e": "Poly (A) tails are important for RNA stability and translation of the polypeptide."
+  },
+  {
+    "q": "The process of removing introns and joining exons is called:",
+    "o": [
+      "Transcription",
+      "Translation",
+      "Splicing",
+      "Capping"
+    ],
+    "a": 2,
+    "e": "Processing involves spliceosomes to remove the intron and splice together the exon into mRNA."
+  },
+  {
+    "q": "A mature mRNA differs from a pre-mRNA because it lacks:",
+    "o": [
+      "Exons",
+      "A 5' cap",
+      "Introns",
+      "A 3' Poly (A) tail"
+    ],
+    "a": 2,
+    "e": "Mature mRNA is formed after introns are spliced out."
+  },
+  {
+    "q": "Which process translates nucleotide sequences into amino acid sequences?",
+    "o": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Splicing"
+    ],
+    "a": 1,
+    "e": "Translation is the process where genetic information in mRNA is translated into an amino acid sequence."
+  },
+  {
+    "q": "What are the subunits of a eukaryotic 80S ribosome?",
+    "o": [
+      "30S and 50S",
+      "40S and 60S",
+      "20S and 60S",
+      "50S and 70S"
+    ],
+    "a": 1,
+    "e": "Eukaryotic ribosomes (80S) have a small subunit (40S) and a large subunit (60S)."
+  },
+  {
+    "q": "Which mRNA codon marks the start of the translation process?",
+    "o": [
+      "UAA",
+      "UAG",
+      "AUG",
+      "UGA"
+    ],
+    "a": 2,
+    "e": "Translation begins at the start codon AUG."
+  },
+  {
+    "q": "The initiator tRNA carries which amino acid in eukaryotes?",
+    "o": [
+      "Valine",
+      "Phenylalanine",
+      "Methionine",
+      "Lysine"
+    ],
+    "a": 2,
+    "e": "The initiator tRNA carries methionine and occupies the P-site."
+  },
+  {
+    "q": "During translation initiation, the initiator tRNA anticodon pairs with AUG. What is this anticodon?",
+    "o": [
+      "UAC",
+      "AUG",
+      "GUA",
+      "CAU"
+    ],
+    "a": 0,
+    "e": "An initiator tRNA with the anticodon UAC pairs with the start codon AUG."
+  },
+  {
+    "q": "Which site on the ribosome is initially occupied by the initiator tRNA?",
+    "o": [
+      "A-site",
+      "P-site",
+      "E-site",
+      "T-site"
+    ],
+    "a": 1,
+    "e": "Initiator tRNA carrying methionine occupies the P (Peptidyl) site."
+  },
+  {
+    "q": "Which ribosomal component catalyzes the formation of peptide bonds?",
+    "o": [
+      "RNA Polymerase",
+      "Peptidyl Transferase",
+      "Helicase",
+      "Aminoacyl-tRNA synthetase"
+    ],
+    "a": 1,
+    "e": "Peptidyl Transferase (part of the large ribosomal subunit) catalyzes peptide bond formation."
+  },
+  {
+    "q": "The movement of the ribosome along the mRNA by one codon is known as:",
+    "o": [
+      "Initiation",
+      "Elongation",
+      "Translocation",
+      "Termination"
+    ],
+    "a": 2,
+    "e": "Translocation involves the ribosome moving along the mRNA by three nucleotides (one codon)."
+  },
+  {
+    "q": "What happens during the translocation step of elongation?",
+    "o": [
+      "DNA unwinds locally",
+      "Uncharged tRNA leaves the P-site",
+      "Introns are removed",
+      "RNA polymerase binds to the promoter"
+    ],
+    "a": 1,
+    "e": "Translocation includes the uncharged-tRNA leaving the P-site."
+  },
+  {
+    "q": "Translation terminates when the ribosome encounters a:",
+    "o": [
+      "Promoter",
+      "TATA box",
+      "Stop codon",
+      "Poly (A) tail"
+    ],
+    "a": 2,
+    "e": "Termination occurs when one of 3 stop codons (UAG, UAA, UGA) appears in the A-site."
+  },
+  {
+    "q": "Which protein recognizes stop codons and hydrolyzes the bond between tRNA and the polypeptide?",
+    "o": [
+      "Transcription factor",
+      "Release factor",
+      "Helicase",
+      "Peptidyl Transferase"
+    ],
+    "a": 1,
+    "e": "A protein called release factor recognizes stop codons and releases the polypeptide."
+  },
+  {
+    "q": "How many total codons are in the genetic code?",
+    "o": [
+      "20",
+      "64",
+      "46",
+      "3"
+    ],
+    "a": 1,
+    "e": "There are 64 codons, which is more than enough to code for 20 amino acids."
+  },
+  {
+    "q": "The feature of the genetic code meaning each codon has only one specific meaning is:",
+    "o": [
+      "Degenerate",
+      "Universal",
+      "Unambiguous",
+      "Nonoverlapping"
+    ],
+    "a": 2,
+    "e": "Unambiguous means each triplet codon has only one meaning."
+  },
+  {
+    "q": "The genetic code is 'universal' because:",
+    "o": [
+      "It is found in the nucleus and mitochondria",
+      "It is the same and stable in all living organisms",
+      "Multiple codons code for one amino acid",
+      "It overlaps during translation"
+    ],
+    "a": 1,
+    "e": "Universal means the code is same and stable in all living organisms."
+  },
+  {
+    "q": "What does it mean that the genetic code is 'degenerate'?",
+    "o": [
+      "It changes over time",
+      "Some amino acids are coded by more than one codon",
+      "One codon codes for multiple amino acids",
+      "The code is not used by all organisms"
+    ],
+    "a": 1,
+    "e": "Degenerate refers to the fact that multiple codons can specify the same amino acid."
+  },
+  {
+    "q": "Which of the following is NOT a stop codon?",
+    "o": [
+      "UAA",
+      "UAG",
+      "UGA",
+      "UGG"
+    ],
+    "a": 3,
+    "e": "The stop codons are UAA, UAG, and UGA. UGG codes for Tryptophan."
+  },
+  {
+    "q": "The Central Dogma states that genetic information flows from:",
+    "o": [
+      "Protein to RNA to DNA",
+      "DNA to RNA to Protein",
+      "RNA to DNA to Protein",
+      "DNA to Protein to RNA"
+    ],
+    "a": 1,
+    "e": "The Central Dogma is that genetic information is transferred from DNA to RNA to Protein."
+  },
+  {
+    "q": "In the Central Dogma, information transfer from DNA to DNA is called:",
+    "o": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Expression"
+    ],
+    "a": 2,
+    "e": "Information is transferred from DNA to DNA through replication."
+  },
+  {
+    "q": "Where does translation occur in the cell?",
+    "o": [
+      "Nucleus",
+      "Cytoplasm",
+      "Nucleolus",
+      "Inside the DNA helix"
+    ],
+    "a": 1,
+    "e": "Translation occurs in the cytoplasm."
+  },
+  {
+    "q": "What happens to the ribosomal subunits after termination?",
+    "o": [
+      "They are degraded",
+      "They fuse together permanently",
+      "They dissociate",
+      "They move back to the nucleus"
+    ],
+    "a": 2,
+    "e": "Upon termination, the ribosomal subunits dissociate."
+  },
+  {
+    "q": "The triplet codon AAA codes for which amino acid?",
+    "o": [
+      "Methionine",
+      "Lysine",
+      "Serine",
+      "Proline"
+    ],
+    "a": 1,
+    "e": "Genetic Code feature: AAA codes for Lysine."
+  },
+  {
+    "q": "Which enzyme localy unwinds the DNA double helix during elongation of transcription?",
+    "o": [
+      "DNA Polymerase",
+      "RNA Polymerase",
+      "Helicase",
+      "Topoisomerase"
+    ],
+    "a": 1,
+    "e": "RNA polymerase unwinds the DNA double helix locally during the elongation stage."
+  },
+  {
+    "q": "Which site on the ribosome receives the incoming charged tRNA (except for the first one)?",
+    "o": [
+      "P-site",
+      "A-site",
+      "E-site",
+      "Exit-site"
+    ],
+    "a": 1,
+    "e": "The A (Aminoacyl) site is ready for the second and subsequent tRNAs."
+  },
+  {
+    "q": "Prokaryotic ribosomes are 70S. What are their subunit Svedberg values?",
+    "o": [
+      "40S and 60S",
+      "30S and 50S",
+      "30S and 40S",
+      "50S and 60S"
+    ],
+    "a": 1,
+    "e": "Prokaryotic ribosomes are composed of 30S and 50S subunits."
+  },
+  {
+    "q": "Which of these is a post-transcriptional modification in eukaryotes?",
+    "o": [
+      "Peptide bond formation",
+      "Translocation",
+      "Adding a Poly (A) tail",
+      "Binding of release factor"
+    ],
+    "a": 2,
+    "e": "Adding Poly (A) tails is a major modification of pre-mRNA."
+  },
+  {
+    "q": "The 'coding strand' of DNA has the same sequence as the mRNA, except that:",
+    "o": [
+      "It has ribose",
+      "It has uracil instead of thymine",
+      "It has thymine instead of uracil",
+      "It is shorter"
+    ],
+    "a": 2,
+    "e": "The coding strand sequence matches the mRNA (which is complementary to the template), but the mRNA has uracil where the DNA has thymine."
+  }
+]

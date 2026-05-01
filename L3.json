@@ -1,0 +1,552 @@
+[
+  {
+    "q": "When was the Rh blood group system discovered?",
+    "o": [
+      "1901",
+      "1940",
+      "1955",
+      "1884"
+    ],
+    "a": 1,
+    "e": "The Rh blood group system was discovered in 1940 by Karl Landsteiner and Alexander Wiener."
+  },
+  {
+    "q": "What biological molecule is the Rh factor?",
+    "o": [
+      "Carbohydrate",
+      "Lipid",
+      "Protein",
+      "Nucleic acid"
+    ],
+    "a": 2,
+    "e": "The Rh factor is a protein found on the surface of most people's red blood cells."
+  },
+  {
+    "q": "On which chromosome is the Rh locus located?",
+    "o": [
+      "Chromosome 9",
+      "Chromosome X",
+      "Chromosome 1",
+      "Chromosome 21"
+    ],
+    "a": 2,
+    "e": "The Rh locus is located specifically on the long arm of chromosome 1."
+  },
+  {
+    "q": "Which two closely linked genes are found at the Rh locus?",
+    "o": [
+      "RHA and RHB",
+      "RHD and RHCE",
+      "RHD and ABO",
+      "RHX and RHY"
+    ],
+    "a": 1,
+    "e": "The Rh locus contains two closely linked genes: RHD and RHCE."
+  },
+  {
+    "q": "An individual with the genotype 'dd' is classified as:",
+    "o": [
+      "Rh-Positive",
+      "Rh-Negative",
+      "AB-Negative",
+      "Universal donor"
+    ],
+    "a": 1,
+    "e": "Recessive homozygotes with the genotype 'dd' are Rh-Negative and lack the Rh antigen."
+  },
+  {
+    "q": "Which genotypes result in an Rh-Positive phenotype?",
+    "o": [
+      "DD only",
+      "Dd only",
+      "DD and Dd",
+      "dd only"
+    ],
+    "a": 2,
+    "e": "Persons with either the DD or Dd genotype possess the D antigen and are termed Rh-Positive."
+  },
+  {
+    "q": "What is the approximate frequency of Rh-Negative individuals in the population?",
+    "o": [
+      "85%",
+      "50%",
+      "15%",
+      "5%"
+    ],
+    "a": 2,
+    "e": "According to the lecture, the frequency of Rh-Negative individuals is approximately 15%."
+  },
+  {
+    "q": "Why is the Rh D antigen clinically important?",
+    "o": [
+      "It determines hair color",
+      "It is highly immunogenic",
+      "It carries oxygen",
+      "It prevents viral infection"
+    ],
+    "a": 1,
+    "e": "The Rh D antigen is the most immunogenic red cell antigen after the A and B antigens."
+  },
+  {
+    "q": "Which disease can occur in a newborn due to Rh D antibodies?",
+    "o": [
+      "Hemophilia",
+      "Sickle cell anemia",
+      "Erythroblastosis fetalis",
+      "Thalassemia"
+    ],
+    "a": 2,
+    "e": "Rh D antibodies can cause hemolytic disease of the newborn, also known as erythroblastosis fetalis."
+  },
+  {
+    "q": "The RHD gene specifically codes for a protein containing the:",
+    "o": [
+      "A antigen",
+      "B antigen",
+      "D antigen",
+      "H antigen"
+    ],
+    "a": 2,
+    "e": "The RHD gene codes for a single protein that contains the Rh D antigen."
+  },
+  {
+    "q": "What is the primary purpose of genetic transfer in bacteria?",
+    "o": [
+      "To reduce population size",
+      "To enhance genetic diversity",
+      "To speed up binary fission",
+      "To create new species"
+    ],
+    "a": 1,
+    "e": "Like sexual reproduction in eukaryotes, genetic transfer in bacteria enhances the genetic diversity of the species."
+  },
+  {
+    "q": "Which bacterial transfer mechanism involves the uptake of free DNA fragments?",
+    "o": [
+      "Transduction",
+      "Conjugation",
+      "Transformation",
+      "Transcription"
+    ],
+    "a": 2,
+    "e": "Transformation is the process where a recipient cell takes up free DNA fragments released from a donor cell."
+  },
+  {
+    "q": "What is a 'competent' bacterium in the context of transformation?",
+    "o": [
+      "A bacterium resistant to all drugs",
+      "A cell capable of taking up extracellular DNA",
+      "A bacterium with a sex pilus",
+      "A cell infected by a virus"
+    ],
+    "a": 1,
+    "e": "A competent bacterium is one that is ready and able to bind extracellular DNA at receptor sites for transformation."
+  },
+  {
+    "q": "Which enzyme cuts the donor DNA into smaller fragments during transformation?",
+    "o": [
+      "DNA Polymerase",
+      "Extracellular endonuclease",
+      "RNA Primase",
+      "Ligase"
+    ],
+    "a": 1,
+    "e": "During transformation, an extracellular endonuclease cuts the bound DNA into smaller fragments."
+  },
+  {
+    "q": "In transformation, what happens to the two strands of the DNA fragment that enters the cell?",
+    "o": [
+      "Both are incorporated",
+      "Both are degraded",
+      "One is degraded and the other enters",
+      "They remain double-stranded"
+    ],
+    "a": 2,
+    "e": "One of the DNA strands is degraded, and the other containing the gene enters the bacterial cell."
+  },
+  {
+    "q": "What mechanism allows the entering DNA strand to be incorporated into the bacterial chromosome?",
+    "o": [
+      "Binary fission",
+      "Homologous recombination",
+      "Active transport",
+      "Random mutation"
+    ],
+    "a": 1,
+    "e": "The DNA strand is incorporated into the chromosome via homologous recombination (crossing over)."
+  },
+  {
+    "q": "Which gene is specifically mentioned as being transferred via transformation?",
+    "o": [
+      "Antibiotic resistance",
+      "Polysaccharide capsule",
+      "Toxin production",
+      "Flagella synthesis"
+    ],
+    "a": 1,
+    "e": "The genes for the polysaccharide capsule are a known example of genes transferred by transformation."
+  },
+  {
+    "q": "Which mechanism requires a bacteriophage to carry genes between cells?",
+    "o": [
+      "Transformation",
+      "Conjugation",
+      "Transduction",
+      "Translation"
+    ],
+    "a": 2,
+    "e": "Transduction occurs when bacterial genes are carried from a donor to a recipient by a bacterial virus (bacteriophage)."
+  },
+  {
+    "q": "What is the result of the 'lytic cycle' in viral infection?",
+    "o": [
+      "The virus integrates into the DNA",
+      "The host cell lyses to release phage progeny",
+      "The host cell becomes resistant",
+      "The virus dies"
+    ],
+    "a": 1,
+    "e": "In the lytic cycle, the virus replicates and lyses the host cell to release new phage progeny."
+  },
+  {
+    "q": "What is the term for viral DNA that has integrated into the bacterial chromosome?",
+    "o": [
+      "Capsid",
+      "Plasmid",
+      "Prophage",
+      "Transposon"
+    ],
+    "a": 2,
+    "e": "A prophage is the viral DNA that integrates into the bacterial chromosome during the lysogenic cycle."
+  },
+  {
+    "q": "Which type of transduction transfers bacterial genes randomly?",
+    "o": [
+      "Specialized transduction",
+      "Generalized transduction",
+      "Direct transduction",
+      "Plasmid transduction"
+    ],
+    "a": 1,
+    "e": "In generalized transduction, each gene of the bacterial chromosome has an equal (random) chance to be transferred."
+  },
+  {
+    "q": "When does specialized transduction occur?",
+    "o": [
+      "During any viral infection",
+      "When any random gene is picked up",
+      "When genes adjacent to the prophage site are transferred",
+      "Only during the lytic cycle"
+    ],
+    "a": 2,
+    "e": "Specialized transduction involves only the transfer of genes adjacent to the prophage attachment site."
+  },
+  {
+    "q": "Which toxins are mentioned as being transferred via transduction?",
+    "o": [
+      "Penicillin and Insulin",
+      "Botulinum, diphtheria, and cholera",
+      "Snake and spider venom",
+      "Endotoxins only"
+    ],
+    "a": 1,
+    "e": "Genes for toxins such as botulinum, diphtheria, and cholera can be transferred by transduction."
+  },
+  {
+    "q": "Which mechanism requires direct cell-to-cell contact?",
+    "o": [
+      "Transformation",
+      "Generalized transduction",
+      "Conjugation",
+      "Specialized transduction"
+    ],
+    "a": 2,
+    "e": "Conjugation requires direct cell contact and involves transfer through a conjugation tube."
+  },
+  {
+    "q": "Which genes code for the production of a sex pilus?",
+    "o": [
+      "r-determinants",
+      "tra genes",
+      "colicine genes",
+      "toxin genes"
+    ],
+    "a": 1,
+    "e": "The F-plasmid carries 'tra' genes which code for the production of a sex pilus."
+  },
+  {
+    "q": "What is the function of the sex pilus in conjugation?",
+    "o": [
+      "To inject toxins",
+      "To adhere to and pull the recipient cell closer",
+      "To degrade the host cell wall",
+      "To facilitate binary fission"
+    ],
+    "a": 1,
+    "e": "The sex pilus adheres to the recipient cell wall and pulls the two cells together until they are bound."
+  },
+  {
+    "q": "How many strands of the F-plasmid are transferred to the recipient during conjugation?",
+    "o": [
+      "None",
+      "One parental strand",
+      "Both strands",
+      "A replicated copy only"
+    ],
+    "a": 1,
+    "e": "The F-plasmid is nicked, and one parental strand passes to the recipient cell."
+  },
+  {
+    "q": "What is a plasmid?",
+    "o": [
+      "A viral protein coat",
+      "The main cellular chromosome",
+      "Extrachromosomal circular DNA",
+      "A fragment of the cell wall"
+    ],
+    "a": 2,
+    "e": "A plasmid is an extrachromosomal, circular DNA molecule that replicates independently of the main chromosome."
+  },
+  {
+    "q": "Which type of plasmid carries genes for resistance to antibiotics?",
+    "o": [
+      "F-plasmid",
+      "Col-plasmid",
+      "R-plasmid",
+      "T-plasmid"
+    ],
+    "a": 2,
+    "e": "R-plasmids are DNA molecules carrying genes for resistance to various antibiotics and drugs."
+  },
+  {
+    "q": "What is the function of Col-plasmids?",
+    "o": [
+      "To transfer DNA via pili",
+      "To code for colicine proteins that kill E. coli",
+      "To resist heavy metals",
+      "To fermented sugars"
+    ],
+    "a": 1,
+    "e": "Col-plasmids code for colicine proteins which kill sensitive E. coli cells."
+  },
+  {
+    "q": "What are 'transposons'?",
+    "o": [
+      "Viral capsids",
+      "Jumping genes that move to another chromosome",
+      "Proteins that kill bacteria",
+      "Receptors on the cell surface"
+    ],
+    "a": 1,
+    "e": "Transposons, or jumping genes, are DNA segments that move to another chromosome."
+  },
+  {
+    "q": "Which genes can be transferred via conjugation according to Table 1?",
+    "o": [
+      "Drug resistance and metal resistance",
+      "Only polysaccharide capsule genes",
+      "Only viral DNA",
+      "Sugar fermentation enzymes only"
+    ],
+    "a": 0,
+    "e": "Conjugation can transfer drug resistance, metal resistance, toxins, and enzymes."
+  },
+  {
+    "q": "Is the transfer in conjugation considered direct or indirect?",
+    "o": [
+      "Direct",
+      "Indirect",
+      "Both",
+      "Neither"
+    ],
+    "a": 0,
+    "e": "Conjugation is considered a direct exchange because the donor and recipient are in contact."
+  },
+  {
+    "q": "Which mechanism of transfer is considered indirect according to the lecture?",
+    "o": [
+      "Conjugation",
+      "Transformation and Transduction",
+      "Binary fission",
+      "Meiosis"
+    ],
+    "a": 1,
+    "e": "Transformation and transduction are indirect because they do not require direct contact between the donor and recipient."
+  },
+  {
+    "q": "What is a 'transducing phage'?",
+    "o": [
+      "A normal virus",
+      "A phage containing host DNA instead of viral DNA",
+      "A bacterium with a pilus",
+      "A plasmid that kills cells"
+    ],
+    "a": 1,
+    "e": "Phage progeny that contain host DNA instead of viral DNA are called transducing phages."
+  },
+  {
+    "q": "The 'RTF segment' of an R-plasmid stands for:",
+    "o": [
+      "Real-time Factor",
+      "Resistance Transfer Factor",
+      "Red Cell Factor",
+      "Recombination Type Factor"
+    ],
+    "a": 1,
+    "e": "The R-plasmid contains Resistance Transfer Factors (RTFs) and r-determinants."
+  },
+  {
+    "q": "Which of these is NOT a step in bacterial transformation?",
+    "o": [
+      "DNA binding to receptor",
+      "Formation of a sex pilus",
+      "Endonuclease cutting DNA",
+      "Integration via recombination"
+    ],
+    "a": 1,
+    "e": "Formation of a sex pilus is a step in conjugation, not transformation."
+  },
+  {
+    "q": "Bacterial transfer enhances diversity, similar to:",
+    "o": [
+      "Mitosis",
+      "Asexual budding",
+      "Sexual reproduction in eukaryotes",
+      "Spore formation"
+    ],
+    "a": 2,
+    "e": "Genetic transfer in bacteria is thought to enhance diversity, much like sexual reproduction in eukaryotes."
+  },
+  {
+    "q": "What happens during the lysogenic cycle of a bacteriophage?",
+    "o": [
+      "The cell explodes immediately",
+      "The viral DNA integrates into the host chromosome",
+      "The virus is degraded by the cell",
+      "The cell stops growing"
+    ],
+    "a": 1,
+    "e": "In the lysogenic cycle, the viral DNA integrates into the bacterial chromosome."
+  },
+  {
+    "q": "Which protein thread is coded for by the F-plasmid?",
+    "o": [
+      "Flagella",
+      "Cilia",
+      "Sex pilus",
+      "Actin"
+    ],
+    "a": 2,
+    "e": "The F-plasmid codes for the sex pilus, which is a protein thread."
+  },
+  {
+    "q": "DNA synthesis occurs in which cells during conjugation?",
+    "o": [
+      "Donor cell only",
+      "Recipient cell only",
+      "Both donor and recipient simultaneously",
+      "Neither cell"
+    ],
+    "a": 2,
+    "e": "Complementary strands are synthesized in both cells simultaneously during the transfer process."
+  },
+  {
+    "q": "The 'r-determinants' on an R-plasmid code for:",
+    "o": [
+      "Replication",
+      "Resistance to specific drugs",
+      "Sex pilus",
+      "Sugar digestion"
+    ],
+    "a": 1,
+    "e": "The r-determinants on an R-plasmid specify resistance to drugs like ampicillin or tetracycline."
+  },
+  {
+    "q": "Transformation can occur:",
+    "o": [
+      "Only in laboratories",
+      "Naturally and in genetic engineering",
+      "Only between different species",
+      "Only via viral infection"
+    ],
+    "a": 1,
+    "e": "Transformation occurs naturally and is also used in genetic engineering studies."
+  },
+  {
+    "q": "Rh D antibodies can also cause:",
+    "o": [
+      "Color blindness",
+      "Hemolytic transfusion reactions",
+      "Diabetes",
+      "Down syndrome"
+    ],
+    "a": 1,
+    "e": "Rh D antibodies are responsible for hemolytic transfusion reactions as well as newborn diseases."
+  },
+  {
+    "q": "What is the shape of all known bacterial plasmids?",
+    "o": [
+      "Linear",
+      "Spiral",
+      "Circular",
+      "Star-shaped"
+    ],
+    "a": 2,
+    "e": "All known plasmids are circular molecules of DNA."
+  },
+  {
+    "q": "Which mechanism of exchange involves a defective bacteriophage?",
+    "o": [
+      "Conjugation",
+      "Transformation",
+      "Transduction",
+      "Mutation"
+    ],
+    "a": 2,
+    "e": "Transduction uses a defective bacteriophage as a carrier of donor DNA."
+  },
+  {
+    "q": "In the human Rh locus, which gene codes for a single protein containing the D antigen?",
+    "o": [
+      "RHCE",
+      "RHD",
+      "SMP1",
+      "ABO"
+    ],
+    "a": 1,
+    "e": "The RHD gene codes for the protein that contains the Rh D antigen."
+  },
+  {
+    "q": "Which gram-type cells are specifically mentioned for conjugation in the table?",
+    "o": [
+      "Gram-positive",
+      "Gram-negative",
+      "Acid-fast",
+      "Mycoplasma"
+    ],
+    "a": 1,
+    "e": "Table 1 mentions Gram-negative cells in the requirements for conjugation."
+  },
+  {
+    "q": "Which of these can be transferred by transformation according to the summary table?",
+    "o": [
+      "Toxins",
+      "Drug resistance",
+      "Polysaccharide capsule",
+      "All of the above"
+    ],
+    "a": 2,
+    "e": "Table 1 lists the polysaccharide capsule as a gene transferred by transformation."
+  },
+  {
+    "q": "What percentage of the population is Rh-Positive?",
+    "o": [
+      "15%",
+      "50%",
+      "85%",
+      "100%"
+    ],
+    "a": 2,
+    "e": "According to the lecture, 85% of the population is Rh-Positive."
+  }
+]
