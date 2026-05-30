@@ -1,552 +1,552 @@
 [
   {
-    "q": "When offspring show traits intermediate between two parental phenotypes, this is known as:",
+    "q": "How many blood group systems have been defined based on antigens located on the surfaces of red blood cells?",
     "o": [
-      "Codominance",
-      "Incomplete dominance",
-      "Epistasis",
-      "Pleiotropy"
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "a": 2,
+    "e": "Twenty five blood group systems have been defined on the bases of antigens located on the surfaces of red blood cells."
+  },
+  {
+    "q": "Who discovered the ABO blood group system?",
+    "o": [
+      "Gregor Mendel",
+      "Karl Landsteiner",
+      "Louis Pasteur",
+      "Alexander Fleming"
     ],
     "a": 1,
-    "e": "Incomplete dominance occurs when offspring show traits intermediate between two parental phenotypes."
+    "e": "Discovery of the ABO system by the Austrian Karl Landsteiner in 1901 marked the beginning of safe blood transfusion."
   },
   {
-    "q": "In four o'clocks, crossing red and white-flowered plants produces pink-flowered offspring. What is the biochemical basis for this?",
+    "q": "In what year was the ABO blood system discovered?",
     "o": [
-      "The red allele completely masks the white allele.",
-      "Both alleles produce an effective product simultaneously.",
-      "The level of gene-directed protein production is between that of the two homozygotes.",
-      "A homozygous recessive condition blocks the production of a metabolic enzyme."
-    ],
-    "a": 2,
-    "e": "Incomplete dominance has a biochemical basis; the level of gene-directed protein production may be between that of the two homozygotes."
-  },
-  {
-    "q": "Does incomplete dominance support the blending theory of inheritance?",
-    "o": [
-      "Yes, because the offspring have blended phenotypes.",
-      "Yes, because the original traits are lost forever.",
-      "No, because parental phenotypes reappear in the F2 generation.",
-      "No, because it only applies to codominance."
-    ],
-    "a": 2,
-    "e": "Incomplete dominance does not support a blending theory because parental phenotypes reappear in the F2 generation."
-  },
-  {
-    "q": "A pattern of inheritance in which both alleles of a gene are fully expressed is called:",
-    "o": [
-      "Incomplete dominance",
-      "Pleiotropy",
-      "Codominance",
-      "Polygenic inheritance"
-    ],
-    "a": 2,
-    "e": "Codominance is a pattern of inheritance in which both alleles of a gene are fully expressed."
-  },
-  {
-    "q": "A person with AB blood type has both A and B antigens on their red blood cells. This is an example of:",
-    "o": [
-      "Incomplete dominance",
-      "Epistasis",
-      "Codominance",
-      "Multiple alleles only"
-    ],
-    "a": 2,
-    "e": "A person with AB blood has both A and B antigens, which is a classic example of codominance where both alleles produce an effective product."
-  },
-  {
-    "q": "What is pleiotropy?",
-    "o": [
-      "Several genes interact to produce a single phenotype.",
-      "A single gene exerts an effect on many aspects of an individual's phenotype.",
-      "One gene masks the expression of another gene.",
-      "Traits are influenced by environmental factors."
+      "1895",
+      "1901",
+      "1910",
+      "1925"
     ],
     "a": 1,
-    "e": "Pleiotropy occurs when a single gene exerts an effect on many aspects of an individual's phenotype."
+    "e": "The ABO system was discovered by Karl Landsteiner in 1901."
   },
   {
-    "q": "Marfan syndrome is caused by a mutant gene that is unable to code for the normal production of which protein?",
+    "q": "Which two blood group systems are of key importance in determining the compatibility of blood transfusions?",
     "o": [
-      "Collagen",
-      "Hemoglobin",
-      "Keratin",
-      "Fibrillin"
+      "ABO and Rh",
+      "Kell and Duffy",
+      "MNS and Lewis",
+      "Lutheran and Gerbich"
+    ],
+    "a": 0,
+    "e": "The ABO- system and RH- systems are both of key importance in determining the compatibility of blood transfusions."
+  },
+  {
+    "q": "What determines a blood group system genetically?",
+    "o": [
+      "A single genetic locus or very closely linked loci",
+      "Multiple unlinked genetic loci",
+      "Environmental factors",
+      "Only mitochondrial DNA"
+    ],
+    "a": 0,
+    "e": "Each system is a series of red cell antigens determined by either a single genetic locus or very closely linked loci."
+  },
+  {
+    "q": "Which antigen is present on the surface of red blood cells in a blood group A individual?",
+    "o": [
+      "Antigen A",
+      "Antigen B",
+      "Both Antigens A and B",
+      "Neither Antigen A nor B"
+    ],
+    "a": 0,
+    "e": "Individuals with blood group A have the A antigen on the surface of their RBCs."
+  },
+  {
+    "q": "Which antibodies are found in the blood serum of a group A individual?",
+    "o": [
+      "Anti-A antibodies",
+      "Anti-B antibodies",
+      "Both Anti-A and Anti-B antibodies",
+      "Neither Anti-A nor Anti-B antibodies"
+    ],
+    "a": 1,
+    "e": "Blood group A individuals have blood serum containing Anti-B antibodies."
+  },
+  {
+    "q": "From which blood groups can a group A individual safely receive blood?",
+    "o": [
+      "A and AB",
+      "B and O",
+      "A and O",
+      "AB and O"
+    ],
+    "a": 2,
+    "e": "A group A individual can only receive blood from individuals of groups A or O."
+  },
+  {
+    "q": "To which blood groups can a group A individual donate blood?",
+    "o": [
+      "A and O",
+      "B and AB",
+      "A and AB",
+      "Only A"
+    ],
+    "a": 2,
+    "e": "A group A individual can donate blood to individuals of groups A or AB."
+  },
+  {
+    "q": "Which antigen is present on the surface of red blood cells in a blood group B individual?",
+    "o": [
+      "Antigen A",
+      "Antigen B",
+      "Both Antigens A and B",
+      "Neither Antigen A nor B"
+    ],
+    "a": 1,
+    "e": "Individuals with blood group B have the B antigen on their surface of their RBCs."
+  },
+  {
+    "q": "What antibodies are present in the blood serum of a group B individual?",
+    "o": [
+      "Anti-A",
+      "Anti-B",
+      "Anti-Rh",
+      "Neither Anti-A nor Anti-B"
+    ],
+    "a": 0,
+    "e": "Group B individuals have blood serum containing Anti-A antibodies."
+  },
+  {
+    "q": "Which blood groups can donate blood to a group B individual?",
+    "o": [
+      "A and B",
+      "B and AB",
+      "B and O",
+      "O and AB"
+    ],
+    "a": 2,
+    "e": "A group B individual can only receive blood from individuals of groups B or O."
+  },
+  {
+    "q": "What antigens are found on the red blood cells of an individual with blood group AB?",
+    "o": [
+      "Only A",
+      "Only B",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 2,
+    "e": "Individuals with blood group AB have both A and B antigens on the surface of their RBCs."
+  },
+  {
+    "q": "Which antibodies exist in the serum of a person with type AB blood?",
+    "o": [
+      "Anti-A",
+      "Anti-B",
+      "Both Anti-A and Anti-B",
+      "Neither Anti-A nor Anti-B"
     ],
     "a": 3,
-    "e": "In Marfan syndrome, a mutant gene is unable to code for the production of a normal protein, fibrillin."
+    "e": "Their blood serum does not contain any antibodies against either A or B antigen."
   },
   {
-    "q": "Which of the following is NOT a typical characteristic of individuals with Marfan syndrome?",
+    "q": "Which blood group is known as the 'Universal Recipient'?",
     "o": [
-      "Short stature and thick fingers",
-      "Near-sightedness",
-      "Weak wall of the aorta",
-      "Tall and thin with long legs and arms"
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
+    ],
+    "a": 2,
+    "e": "Type AB individuals are universal recipients because they can receive blood from any group."
+  },
+  {
+    "q": "To whom can an individual with type AB blood donate?",
+    "o": [
+      "Any blood group",
+      "Only group O",
+      "Only group AB",
+      "Groups A and B"
+    ],
+    "a": 2,
+    "e": "An individual with type AB blood can only donate blood to another group AB individual."
+  },
+  {
+    "q": "Which antigens are on the surface of red blood cells in a group O individual?",
+    "o": [
+      "Antigen A",
+      "Antigen B",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 3,
+    "e": "Group O individuals do not have either A or B antigens on the surface of their RBCs."
+  },
+  {
+    "q": "What antibodies are present in the serum of a group O individual?",
+    "o": [
+      "Anti-A only",
+      "Anti-B only",
+      "Both Anti-A and Anti-B",
+      "No antibodies"
+    ],
+    "a": 2,
+    "e": "Group O blood serum contains both Anti-A and Anti-B antibodies."
+  },
+  {
+    "q": "Which blood type is considered the 'Universal Donor'?",
+    "o": [
+      "Group A",
+      "Group B",
+      "Group AB",
+      "Group O"
+    ],
+    "a": 3,
+    "e": "Group O individuals can donate blood to any ABO blood group (A, B, O, or AB), making them universal donors."
+  },
+  {
+    "q": "From which blood group can a type O individual receive a blood transfusion?",
+    "o": [
+      "Only type O",
+      "Type A or O",
+      "Type B or O",
+      "Any ABO group"
     ],
     "a": 0,
-    "e": "Individuals with Marfan syndrome tend to be tall and thin with long legs, arms, and fingers; are near-sighted; and have a weak aorta."
+    "e": "A group O individual can only receive blood from a group O individual."
   },
   {
-    "q": "The absence of an expected phenotype as a result of the masking expression of one gene pair by another is known as:",
-    "o": [
-      "Epistasis",
-      "Pleiotropy",
-      "Codominance",
-      "Polygenic inheritance"
-    ],
-    "a": 0,
-    "e": "Epistasis is the absence of an expected phenotype as a result of masking expression of one gene pair by the expression of another gene pair."
-  },
-  {
-    "q": "In sweet pea plants, crossing two plants can produce an F2 generation with a 9:7 ratio instead of the expected 9:3:3:1. This is explained by:",
-    "o": [
-      "Incomplete dominance",
-      "A homozygous recessive condition blocking a metabolic enzyme",
-      "Linked genes",
-      "A single gene affecting multiple traits"
-    ],
-    "a": 1,
-    "e": "The 9:7 ratio is explained by epistasis, where a homozygous recessive condition blocks the production of a metabolic enzyme."
-  },
-  {
-    "q": "Albino animals inherit an allelic pair (aa) that prevents the production of melanin. This is an example of:",
-    "o": [
-      "Pleiotropy",
-      "Epistasis",
-      "Multiple alleles",
-      "Codominance"
-    ],
-    "a": 1,
-    "e": "Albino animals inherit an allelic pair (aa) that prevents the production of melanin, masking the expression of eye and hair color genes, an example of epistasis."
-  },
-  {
-    "q": "In a system with multiple alleles for a single locus, how many alleles does a single diploid individual inherit?",
+    "q": "How many genes control the ABO blood type?",
     "o": [
       "One",
       "Two",
       "Three",
       "Four"
     ],
-    "a": 1,
-    "e": "There may be more than two alleles for one locus in a population, but each individual inherits only two alleles."
+    "a": 0,
+    "e": "The ABO blood type is controlled by a single gene."
   },
   {
-    "q": "The human ABO blood type system involves how many alleles and how many possible phenotypes?",
+    "q": "On which chromosome is the gene responsible for the ABO blood group located?",
     "o": [
-      "2 alleles, 3 phenotypes",
-      "3 alleles, 3 phenotypes",
-      "3 alleles, 4 phenotypes",
-      "4 alleles, 4 phenotypes"
+      "Chromosome X",
+      "Chromosome 7",
+      "Chromosome 9",
+      "Chromosome 21"
     ],
     "a": 2,
-    "e": "The ABO system involves three alleles, resulting in four possible phenotypes: A, B, AB, and O."
+    "e": "The gene is located on chromosome 9."
   },
   {
-    "q": "The water buttercup (Ranunculus peltatus) has different leaf shapes depending on whether they are above water or submerged. This demonstrates:",
+    "q": "How many alleles does the gene responsible for ABO blood groups have?",
     "o": [
-      "Polygenic inheritance",
-      "The environment affecting the phenotype",
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "a": 1,
+    "e": "It has 3 alleles: IA, IB, and I°."
+  },
+  {
+    "q": "What type of enzyme does the ABO gene encode?",
+    "o": [
+      "Protease",
+      "Lipase",
+      "Glycosyltransferase",
+      "Amylase"
+    ],
+    "a": 2,
+    "e": "The gene encodes a glycosyltransferase enzyme."
+  },
+  {
+    "q": "An individual with the IAIB genotype will express which blood type?",
+    "o": [
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
+    ],
+    "a": 2,
+    "e": "Those with both alleles express both antigens, resulting in blood type AB."
+  },
+  {
+    "q": "What blood type results from an individual having two copies of the I° allele?",
+    "o": [
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
+    ],
+    "a": 3,
+    "e": "Those with only two copies of the I° allele have neither antigen, resulting in type O blood."
+  },
+  {
+    "q": "If an individual is a heterozygote with genotype IAI°, what is their blood phenotype?",
+    "o": [
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
+    ],
+    "a": 0,
+    "e": "Individuals who are IAI° heterozygotes have blood type A because the I° allele produces no antigen."
+  },
+  {
+    "q": "Which of the following genotypes represents a heterozygous type B individual?",
+    "o": [
+      "IBIB",
+      "IBI°",
+      "IAIB",
+      "I°I°"
+    ],
+    "a": 1,
+    "e": "IBI° is a heterozygote that results in blood type B."
+  },
+  {
+    "q": "What terminal carbohydrate is added to the RBC receptor by the enzyme encoded by the A gene?",
+    "o": [
+      "D-galactose",
+      "Glucose",
+      "N-acetyl galactosamine",
+      "Fructose"
+    ],
+    "a": 2,
+    "e": "RBCs of type A contain an enzyme that adds N-acetyl galactosamine to the receptor."
+  },
+  {
+    "q": "What terminal carbohydrate does the enzyme encoded by the B gene add to RBC receptors?",
+    "o": [
+      "N-acetyl galactosamine",
+      "D-galactose",
+      "Sucrose",
+      "Maltose"
+    ],
+    "a": 1,
+    "e": "RBCs of type B have an enzyme that adds D-galactose."
+  },
+  {
+    "q": "Why do type O red blood cells lack a terminal carbohydrate on their receptors?",
+    "o": [
+      "The enzyme adds an invisible molecule",
+      "They lack the genes and enzymes to add a terminal molecule",
+      "The terminal molecule is destroyed instantly",
+      "They add both carbohydrates that cancel each other"
+    ],
+    "a": 1,
+    "e": "RBCs of type O lack the genes and enzymes to add a terminal molecule."
+  },
+  {
+    "q": "The ABO antigens are not primary gene products but rather the products of what?",
+    "o": [
+      "Lipid synthesis",
+      "Protein folding",
+      "Enzymatic reactions by glycosyltransferases",
+      "RNA splicing"
+    ],
+    "a": 2,
+    "e": "The ABO antigens are enzymatic reaction products of enzymes called glycosyltransferases."
+  },
+  {
+    "q": "When both alleles of a pair are fully expressed in a heterozygote, they are called:",
+    "o": [
+      "Recessive",
+      "Codominants",
+      "Incompletely dominant",
+      "Polygenic"
+    ],
+    "a": 1,
+    "e": "When both alleles of a pair are fully expressed in a heterozygote they are called Codominants."
+  },
+  {
+    "q": "The expression of the IA and IB alleles in an individual to form blood type AB is a classic example of:",
+    "o": [
       "Epistasis",
+      "Codominance",
+      "Incomplete dominance",
       "Pleiotropy"
     ],
     "a": 1,
-    "e": "The aquatic environment influences the phenotype of the water buttercup, demonstrating that both genotype and environment affect phenotype."
+    "e": "The ABO blood group antigens are a good example of codominance, as both IA and IB are expressed fully."
   },
   {
-    "q": "Primroses produce white flowers above 32 degrees Celsius and red flowers at 24 degrees Celsius. What factor is affecting their phenotype?",
+    "q": "A mating between a homozygous type A person (IAIA) and a homozygous type B person (IBIB) will result in offspring with what blood type?",
     "o": [
-      "Temperature",
-      "Water availability",
-      "Light intensity",
-      "Soil pH"
+      "100% Type A",
+      "100% Type B",
+      "100% Type AB",
+      "50% A and 50% B"
+    ],
+    "a": 2,
+    "e": "It would result in all heterozygous AB-type (IAIB) offspring."
+  },
+  {
+    "q": "ABO blood typing can be useful in legal contexts, primarily for which of the following?",
+    "o": [
+      "Proving maternity definitely",
+      "Ruling out paternity",
+      "Determining age",
+      "Identifying genetic diseases"
+    ],
+    "a": 1,
+    "e": "The genetics of ABO antigens were once used to rule out paternity."
+  },
+  {
+    "q": "If a mother is Type O and the father is Type O, what are the possible blood types for their offspring?",
+    "o": [
+      "Only Type O",
+      "Types A and O",
+      "Types B and O",
+      "Types A, B, AB, and O"
     ],
     "a": 0,
-    "e": "Temperature can affect the phenotypes of some plants, like primroses, and animals, like Siamese cats."
+    "e": "According to the inheritance chart, a mating between O and O can only produce O offspring."
   },
   {
-    "q": "When a trait is controlled by several allelic pairs at different loci having an additive effect, it is known as:",
+    "q": "If both parents have Type AB blood, which blood type is NOT possible for their offspring?",
     "o": [
-      "Pleiotropy",
-      "Multiple alleles",
-      "Epistasis",
-      "Polygenic inheritance"
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
     ],
     "a": 3,
-    "e": "Polygenic inheritance occurs when a trait is controlled by several allelic pairs at different loci."
+    "e": "Type AB parents only carry A and B alleles, so they cannot produce an offspring with Type O (which requires two O alleles)."
   },
   {
-    "q": "In polygenic inheritance, alleles that result in quantitative variations are called:",
+    "q": "Before a blood transfusion, a standard technique mixes donor blood drops with antisera. What is observed to determine blood type?",
     "o": [
-      "Recessive alleles",
-      "Contributing alleles",
-      "Mutant alleles",
-      "Linked alleles"
+      "Color change to blue",
+      "Evidence of agglutination",
+      "Evaporation of plasma",
+      "Cellular division"
     ],
     "a": 1,
-    "e": "Contributing alleles have an additive effect, resulting in quantitative variations in polygenic traits."
+    "e": "Drops of blood are mixed with antisera... and are then observed for the evidence of agglutination."
   },
   {
-    "q": "Which of the following is an example of a polygenic trait?",
+    "q": "Which of the following infectious agents is NOT specifically listed in the text as a target for pre-transfusion screening?",
     "o": [
-      "ABO blood type",
-      "Marfan syndrome",
-      "Human skin color",
-      "Albinism"
-    ],
-    "a": 2,
-    "e": "Examples of polygenic inheritance include seed color in wheat, human skin color, and human height."
-  },
-  {
-    "q": "Because polygenic traits are subject to environmental effects that cause intermediate phenotypes, their frequency distribution forms a:",
-    "o": [
-      "Straight line",
-      "Normal (bell-shaped) curve",
-      "Bimodal curve",
-      "U-shaped curve"
-    ],
-    "a": 1,
-    "e": "Polygenic traits produce continuous variations whose frequency distribution forms a normal (bell-shaped) curve."
-  },
-  {
-    "q": "Who independently proposed the Chromosomal Theory of Inheritance in 1902?",
-    "o": [
-      "Gregor Mendel and Charles Darwin",
-      "Thomas Hunt Morgan and James Watson",
-      "Theodor Boveri and Walter S. Sutton",
-      "Francis Crick and Rosalind Franklin"
-    ],
-    "a": 2,
-    "e": "The Chromosomal Theory of Inheritance was independently proposed in 1902 by Theodor Boveri and Walter S. Sutton."
-  },
-  {
-    "q": "Which observation supports the Chromosomal Theory of Inheritance?",
-    "o": [
-      "Chromosomes blend together during fertilization.",
-      "Chromosomes and alleles of each pair separate during meiosis so gametes have one-half.",
-      "Gametes contain diploid numbers of chromosomes.",
-      "Genes are completely independent of chromosomes."
-    ],
-    "a": 1,
-    "e": "The theory is supported by the observation that chromosomes and alleles of each pair separate during meiosis so gametes have one-half."
-  },
-  {
-    "q": "Chromosomes that are the same number and kind between sexes are called:",
-    "o": [
-      "Sex chromosomes",
-      "Autosomes",
-      "Mutant chromosomes",
-      "Polyploid chromosomes"
-    ],
-    "a": 1,
-    "e": "Autosomes are nonsex chromosomes that are the same number and kind between sexes."
-  },
-  {
-    "q": "What are the sex chromosomes of a normal human male?",
-    "o": [
-      "XX",
-      "YY",
-      "XY",
-      "XO"
-    ],
-    "a": 2,
-    "e": "The sex chromosomes in the human female are XX; those of the male are XY."
-  },
-  {
-    "q": "In humans, which parent determines the sex of the offspring?",
-    "o": [
-      "The mother, because she provides the X chromosome.",
-      "The mother, because of mitochondrial DNA.",
-      "The father, because he produces X-containing and Y-containing gametes.",
-      "Both parents contribute equally to sex determination."
-    ],
-    "a": 2,
-    "e": "Males produce X-containing and Y-containing gametes; therefore, males determine the sex of the offspring."
-  },
-  {
-    "q": "Any gene located on the X chromosome that does not control a sexual feature is called a(n):",
-    "o": [
-      "Autosomal gene",
-      "Y-linked gene",
-      "X-linked gene",
-      "Pleiotropic gene"
-    ],
-    "a": 2,
-    "e": "An X-linked gene is any gene located on the X chromosome, often missing on the Y chromosome, that does not necessarily control a sexual feature."
-  },
-  {
-    "q": "Which model organism did Thomas Hunt Morgan use to confirm that genes were on chromosomes?",
-    "o": [
-      "Sweet peas",
-      "Fruit flies",
-      "Garden peas",
-      "Mice"
-    ],
-    "a": 1,
-    "e": "Morgan's experiments involved fruit flies, which have an XY sex determination system similar to humans."
-  },
-  {
-    "q": "What was the phenotype of the newly discovered mutant male fruit fly in Morgan's experiments?",
-    "o": [
-      "Red eyes",
-      "White eyes",
-      "Vestigial wings",
-      "Yellow body"
-    ],
-    "a": 1,
-    "e": "A newly discovered mutant male fruit fly had white eyes."
-  },
-  {
-    "q": "When Morgan crossed a white-eyed male with a dominant red-eyed female, what was unique about the white-eyed flies in the F2 generation?",
-    "o": [
-      "They were all females.",
-      "They were all males.",
-      "They had a 1:1 ratio of males to females.",
-      "They were sterile."
-    ],
-    "a": 1,
-    "e": "The cross yielded the expected 3:1 red-to-white ratio; however, all white-eyed flies were males, supporting an allele for eye color on the X chromosome."
-  },
-  {
-    "q": "Why are human males never considered 'carriers' for X-linked traits?",
-    "o": [
-      "Because they have two X chromosomes.",
-      "Because the Y chromosome masks the X chromosome.",
-      "Because they only have one X chromosome and express whatever allele is on it.",
-      "Because X-linked traits only affect females."
-    ],
-    "a": 2,
-    "e": "Males are never carriers but express the one allele on their single X chromosome."
-  },
-  {
-    "q": "In X-linked inheritance, females who are heterozygous are called:",
-    "o": [
-      "Mutants",
-      "Carriers",
-      "Affected",
-      "Homozygotes"
-    ],
-    "a": 1,
-    "e": "Heterozygous females are carriers; they do not show the trait but can pass it on."
-  },
-  {
-    "q": "Which of the following is an example of an X-linked recessive disorder in humans?",
-    "o": [
-      "Marfan syndrome",
-      "Down syndrome",
-      "Cri du chat syndrome",
-      "Color-blindness"
+      "HIV",
+      "Hepatitis B",
+      "Hepatitis C",
+      "Tuberculosis"
     ],
     "a": 3,
-    "e": "One form of color-blindness is an X-linked recessive trait."
+    "e": "The text lists HIV 1 and 2, HBV, HCV, some bacteria and parasites, but does not explicitly name Tuberculosis."
   },
   {
-    "q": "Because fruit flies have thousands of genes but only four pairs of chromosomes, Sutton concluded that:",
+    "q": "What is another term for a 'Crossmatch' test?",
     "o": [
-      "Most genes are useless.",
-      "Genes are not on chromosomes.",
-      "Each chromosome must hold many genes.",
-      "Chromosomes constantly mutate."
-    ],
-    "a": 2,
-    "e": "Fruit flies have four pairs of chromosomes to hold thousands of genes; Sutton concluded each chromosome must hold many genes."
-  },
-  {
-    "q": "All alleles on a single chromosome form a:",
-    "o": [
-      "Polygenic group",
-      "Linkage group",
-      "Mutant group",
-      "Pleiotropic group"
+      "Blood Typing",
+      "Compatibility Test",
+      "Screening Test",
+      "Genotype Test"
     ],
     "a": 1,
-    "e": "All alleles on a chromosome form a linkage group that stays together except when crossing over."
+    "e": "Crossmatch is also referred to as a Compatibility Test."
   },
   {
-    "q": "Why do linked alleles not obey Mendel's law of independent assortment?",
+    "q": "What is the general rule of compatibility in a crossmatch test?",
     "o": [
-      "Because they are always recessive.",
-      "Because they tend to go into the gametes together.",
-      "Because they are always separated during mitosis.",
-      "Because they are located on different chromosomes."
+      "Donor antibodies must agglutinate recipient RBCs",
+      "Donor RBC antigens must not be agglutinated by recipient antibodies",
+      "Recipient RBCs must agglutinate donor antibodies",
+      "Both blood types must be identical"
     ],
     "a": 1,
-    "e": "Linked alleles do not obey Mendel's laws because they tend to go into the gametes together."
+    "e": "The general rule of compatibility is that the RBC antigens of the donor must not be agglutinated by antibodies in recipient's blood."
   },
   {
-    "q": "What process breaks linkage groups and causes recombinant gametes?",
+    "q": "Which term describes a person whose plasma contains both anti-A and anti-B antibodies?",
     "o": [
-      "Nondisjunction",
-      "Crossing-over",
-      "Epistasis",
-      "Pleiotropy"
-    ],
-    "a": 1,
-    "e": "Crossing-over causes recombinant gametes and at fertilization, recombinant phenotypes."
-  },
-  {
-    "q": "Mutations are changes in chromosomes or genes. For a mutation to be passed to offspring, it must occur in:",
-    "o": [
-      "Somatic cells",
-      "Gametes",
-      "Autosomes only",
-      "Sex chromosomes only"
-    ],
-    "a": 1,
-    "e": "Mutations are changes in chromosomes or genes that pass to offspring if they occur in gametes."
-  },
-  {
-    "q": "The condition where an individual has only one of a particular type of chromosome is called:",
-    "o": [
-      "Trisomy",
-      "Polyploidy",
-      "Monosomy",
-      "Nondisjunction"
-    ],
-    "a": 2,
-    "e": "Monosomy occurs when an individual has only one of a particular type of chromosome."
-  },
-  {
-    "q": "The failure of chromosomes to separate properly during cell division is called:",
-    "o": [
-      "Inversion",
-      "Crossing-over",
-      "Translocation",
-      "Nondisjunction"
+      "Universal recipient",
+      "Type A individual",
+      "Type AB individual",
+      "Universal donor"
     ],
     "a": 3,
-    "e": "Nondisjunction is the failure of chromosomes to separate."
+    "e": "A universal donor (Type O) has plasma with both anti-A and anti-B antibodies."
   },
   {
-    "q": "Nondisjunction is more common during which phase of cell division?",
+    "q": "If an agglutination reaction occurs when blood is mixed with Anti-A serum but NOT with Anti-B serum, what is the ABO blood type?",
     "o": [
-      "Meiosis I",
-      "Meiosis II",
-      "Mitosis",
-      "Interphase"
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
     ],
     "a": 0,
-    "e": "Nondisjunction is the failure of chromosomes to separate; it is more common during meiosis I than meiosis II."
+    "e": "Agglutination with Anti-A indicates the presence of the A antigen, characteristic of Type A blood."
   },
   {
-    "q": "A syndrome is defined as:",
+    "q": "If a person has a heterozygous genotype for blood type A, which alleles were inherited from their parents?",
     "o": [
-      "A single gene mutation causing a specific disease.",
-      "A distinctive set of physical and mental abnormalities.",
-      "The complete loss of a chromosome pair.",
-      "A harmless variation in chromosome structure."
-    ],
-    "a": 1,
-    "e": "Survivors of chromosomal number changes are characterized by a distinctive set of physical and mental abnormalities called a syndrome."
-  },
-  {
-    "q": "Turner syndrome is characterized by which chromosomal makeup?",
-    "o": [
-      "Trisomy 21",
-      "XXY",
-      "A single X chromosome (XO)",
-      "XYY"
+      "IA and IB",
+      "IA and IA",
+      "IA and I°",
+      "I° and I°"
     ],
     "a": 2,
-    "e": "Turner syndrome is a monosomy where the individual has a single X chromosome."
+    "e": "A heterozygous type A individual carries one IA allele and one I° allele."
   },
   {
-    "q": "The most common trisomy among living humans, involving chromosome 21, is known as:",
+    "q": "The I° allele is best described as:",
     "o": [
-      "Turner syndrome",
-      "Marfan syndrome",
-      "Down syndrome",
-      "Cri du chat syndrome"
-    ],
-    "a": 2,
-    "e": "Down syndrome is the most common trisomy among humans; it involves chromosome 21."
-  },
-  {
-    "q": "When offspring end up with more than two complete sets of chromosomes (e.g., 3n, 4n), this is called:",
-    "o": [
-      "Nondisjunction",
-      "Polyploidy",
-      "Monosomy",
-      "Translocation"
-    ],
-    "a": 1,
-    "e": "Polyploidy occurs when offspring end up with more than two complete sets of chromosomes."
-  },
-  {
-    "q": "While polyploidy is rare and often lethal in animals, it is a major evolutionary mechanism in:",
-    "o": [
-      "Fungi",
-      "Bacteria",
-      "Plants",
-      "Viruses"
-    ],
-    "a": 2,
-    "e": "Polyploidy does not increase variation in animals; it is a major evolutionary mechanism in plants."
-  },
-  {
-    "q": "Environmental factors that can cause chromosomes to break include all of the following EXCEPT:",
-    "o": [
-      "Radiation",
-      "Chemicals",
-      "Viruses",
-      "Normal cellular respiration"
+      "Producing the A antigen",
+      "Producing the B antigen",
+      "Producing a unique O antigen",
+      "Producing no antigen"
     ],
     "a": 3,
-    "e": "Environmental factors including radiation, chemicals, and viruses, can cause chromosomes to break."
+    "e": "The I° allele produces no antigen."
   },
   {
-    "q": "A change in chromosomal structure where a segment becomes separated and reinserts at the same place but in reverse is called a(n):",
+    "q": "According to Table 2, what antigen does blood group A have on its RBCs?",
     "o": [
-      "Deletion",
-      "Inversion",
-      "Translocation",
-      "Duplication"
+      "A (galactosamine)",
+      "B (galactose)",
+      "Both",
+      "None"
+    ],
+    "a": 0,
+    "e": "Table 2 states blood group A has 'A (galactosamine)' present on RBCs."
+  },
+  {
+    "q": "When performing blood typing, what does the 'Anti-D' (or Anti-Rh) well determine?",
+    "o": [
+      "The ABO blood group",
+      "The Rh factor (+ or -)",
+      "The presence of HIV",
+      "The concentration of RBCs"
     ],
     "a": 1,
-    "e": "Inversions occur when a segment that has become separated from the chromosome is reinserted at the same place but in reverse."
+    "e": "Anti-D is used alongside Anti-A and Anti-B to determine the Rh factor (positive or negative)."
   },
   {
-    "q": "When a chromosomal segment is removed from one chromosome and inserted into another nonhomologous chromosome, it is called a(n):",
+    "q": "Which blood type has erythrocytes with neither type A nor type B surface antigens?",
     "o": [
-      "Inversion",
-      "Translocation",
-      "Deletion",
-      "Duplication"
-    ],
-    "a": 1,
-    "e": "Translocations occur when a chromosomal segment is removed from one chromosome and inserted into another, nonhomologous chromosome."
-  },
-  {
-    "q": "Translocation heterozygotes usually suffer from reduced fertility due to:",
-    "o": [
-      "Inability to mate",
-      "Production of abnormal gametes",
-      "Total loss of sex chromosomes",
-      "Overproduction of hormones"
-    ],
-    "a": 1,
-    "e": "Translocation heterozygotes usually have reduced fertility due to the production of abnormal gametes."
-  },
-  {
-    "q": "Cri du chat syndrome is caused by which type of chromosomal mutation?",
-    "o": [
-      "Duplication",
-      "Inversion",
-      "Translocation",
-      "Deletion"
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
     ],
     "a": 3,
-    "e": "Cri du chat syndrome is a deletion in which an individual has a small head, is mentally retarded, and has a cat-like cry."
+    "e": "Type O has erythrocytes with neither type A nor type B surface antigens."
   },
   {
-    "q": "What is a potential evolutionary benefit of chromosomal duplications?",
+    "q": "If a mother is Type A and the father is Type O, which of the following is a possible blood type for their child?",
     "o": [
-      "They cause immediate cell death.",
-      "They guarantee successful polyploidy.",
-      "Multiple copies of genes can mutate differently and provide additional genetic variation.",
-      "They prevent crossing-over entirely."
+      "Type B",
+      "Type AB",
+      "Type O",
+      "Only Type A"
     ],
     "a": 2,
-    "e": "Multiple copies of genes can mutate differently and provide additional genetic variation for a species."
+    "e": "If the mother is heterozygous (IAI°), she can pass the I° allele, resulting in a Type O child (I°I°)."
   }
 ]
